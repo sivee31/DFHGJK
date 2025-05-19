@@ -1,0 +1,2377 @@
+ CUIDADOS COM
+  FERIDAS: GUIA
+ C O M P L E T O PA R A
+PROFISSIONAIS DE
+      SAÚDE E
+   ESTUDANTES
+Guia Completo para Profissionais de Saúde e
+               Estudantes
+
+
+     César Augusto Cirino Silva
+                        CONTENTS
+
+Title Page
+prólogo
+Cuidados com Feridas: Guia Completo para Profissionais de Saúde e
+Estudantes
+Capítulo 1: Introdução aos Cuidados com Feridas
+Capítulo 2: Definições e Classificação de Feridas
+Capítulo 3: Fisiologia da Cicatrização de Feridas
+Capítulo 4: Patologia dos Tipos de Feridas
+Capítulo 5: Avaliação de Feridas
+Capítulo 6: Princípios do Tratamento de Feridas
+Capítulo 7: Prevenção de Feridas: Abordagem Proativa
+Capítulo 8: Epidemiologia e Impacto das Feridas
+Capítulo 9: O Papel da Educação em Cuidados com Feridas
+Capítulo 10: Cuidados Específicos por Populações
+Capítulo 11: Uso Racional de Antimicrobianos em Feridas
+Capítulo 12: Inovações em Curativos e Terapias Regenerativas
+Capítulo 13: Cuidados Domiciliares e Orientações para Cuidadores
+Gabarito das questões:
+                            PRÓLOGO
+O conhecimento científico evolui em ritmo acelerado, e com ele surgem
+
+novas formas de aprender, ensinar e produzir saberes. Este livro nasce da
+
+intersecção entre tecnologia e ciência: foi concebido com o auxílio de
+
+ferramentas de inteligência artificial, mas construído com olhar humano
+
+crítico, técnico e ético.
+
+Desde o início, o objetivo foi claro: explorar o potencial da inteligência
+
+artificial como ferramenta de apoio na organização e geração de conteúdo
+
+acadêmico, sem abrir mão do rigor científico, da revisão criteriosa e da
+
+responsabilidade com a informação. Todo o material aqui apresentado foi
+
+baseado em evidências sólidas, com referências extraídas de artigos
+
+científicos, diretrizes oficiais e livros reconhecidos na área da saúde.
+
+Este guia foi idealizado para atender tanto estudantes em formação quanto
+
+profissionais já inseridos no cuidado direto com pacientes, servindo como
+
+fonte confiável no manejo de feridas, independentemente do nível de
+experiência. Os capítulos foram organizados de forma lógica e didática,
+
+visando facilitar a compreensão, a memorização e a aplicação prática do
+
+conteúdo.
+
+
+O uso de inteligência artificial não substituiu o raciocínio clínico nem a
+
+capacidade de julgamento crítico: ao contrário, reforçou a importância do
+
+ser humano como curador da informação, especialmente em temas que
+
+envolvem saúde, dor, vida e dignidade.
+CUIDADOS COM FERIDAS: GUIA
+
+COMPLETO PARA PROFISSIONAIS
+
+DE SAÚDE E ESTUDANTES
+
+Este livro foi elaborado com o objetivo de oferecer um material
+
+completo, atualizado e cientificamente embasado sobre o cuidado
+
+com feridas, abordando desde os princípios fisiológicos da
+
+cicatrização até as terapias mais avançadas disponíveis na prática
+
+clínica.
+
+Voltado para profissionais da saúde e estudantes, o conteúdo inclui
+
+aspectos celulares, moleculares, tipos de curativos (correlatos),
+
+avaliação clínica, prevenção e tratamento de feridas agudas e
+
+crônicas.
+
+A estrutura é pensada para o aprendizado didático e prático, com:
+
+- Explicações fisiológicas aprofundadas;
+
+- Quadros comparativos e tabelas explicativas;
+- Questões ao final de cada capítulo com gabarito;
+
+- Referências bibliográficas em estilo Vancouver.
+
+Importante:
+
+Este material foi elaborado com o auxílio de inteligência artificial,
+
+sob curadoria e revisão científica do autor. A IA foi utilizada para
+
+integrar informações atualizadas da literatura biomédica com
+
+linguagem clara e objetiva. A tecnologia, quando bem orientada,
+
+pode ampliar o acesso ao conhecimento e otimizar a produção de
+
+conteúdos educativos de alta qualidade. Contudo, seu uso reforça a
+
+importância da regulamentação ética e da validação humana
+
+especializada na criação de conteúdos técnico-científicos para a
+
+saúde.
+CAPÍTULO 1: INTRODUÇÃO AOS
+
+CUIDADOS COM FERIDAS
+As feridas representam um desafio clínico frequente em todos os níveis de
+atenção à saúde, variando de lesões agudas simples a úlceras crônicas
+complexas. O cuidado adequado é essencial para evitar infeções e promover
+cicatrização eficaz . Feridas mal manejadas aumentam morbilidade,
+prolongam hospitalizações e elevam custos assistenciais, além de
+impactarem negativamente a qualidade de vida do paciente . Profissionais
+de saúde precisam compreender os princípios básicos da cicatrização,
+fatores de risco sistêmicos (como diabetes, desnutrição, idade avançada) e
+locais (hipóxia, infeção, pressão) que influenciam o processo de reparo
+tecidual          .
+
+Este eBook destina-se a médicos, enfermeiros, fisioterapeutas e demais
+
+profissionais que desejam aprofundar seus conhecimentos em manejo de
+feridas. Ele aborda desde definições e classificação de feridas até estratégias
+
+de prevenção e inovações terapêuticas. Espera-se que, ao final, o leitor seja
+
+capaz de avaliar feridas sistematicamente, escolher intervenções baseadas
+em evidências e orientar pacientes e cuidadores, contribuindo para melhores
+
+resultados clínicos         .
+CAPÍTULO 2: DEFINIÇÕES E
+
+CLASSIFICAÇÃO DE FERIDAS
+
+ Uma ferida é definida como qualquer interrupção na integridade da
+pele ou de tecidos subjacentes, seja por trauma físico, químico,
+
+biológico ou patológico         . Incisões cirúrgicas planejadas
+também são consideradas feridas. A compreensão precisa do tipo
+
+de ferida é crucial para guiar o tratamento.
+
+
+ Classificação por integridade da pele
+
+     • Feridas abertas: Há ruptura da barreira cutânea, expondo
+
+    tecidos subjacentes. Exemplo: cortes, lacerações, úlceras
+
+    (venosa, por pressão), queimaduras. São vulneráveis à
+
+    contaminação e infeção            .
+
+      • Feridas fechadas: Integridade da pele preservada, mas
+
+    dano interno. Inclui contusões,
+      hematomas e esmagamentos de tecidos. Nesses casos,
+
+    não há rutura, mas pode haver extravasamento
+
+    sanguíneo e edema             .
+Classificação por tempo e prognóstico
+
+
+    • Feridas agudas: Resultam de trauma súbito e seguem
+
+   processo normal de cicatrização (hemostasia, inflamação,
+   proliferação, remodelamento). Cicatrizam em semanas se
+
+   fatores locais e sistêmicos forem favoráveis         .
+
+   Exemplos: cortes cirúrgicos limpos, lacerações simples,
+
+   queimaduras de primeiro grau.
+    • Feridas crônicas: Definidas por persistência além do tempo
+
+   esperado (geralmente >6 semanas)
+
+
+Classificação por profundidade
+
+    • Espessura parcial (superficial): Afeta epiderme e talvez
+
+   parte da derme superficial. Inclui abrasões, úlceras de
+
+   primeiro/segundo grau superficiais. Geralmente dolorosas e
+
+   com bom potencial de recuperação               .
+
+    • Espessura total (profunda): Atinge toda a pele, tecido
+
+   subcutâneo, às vezes músculo ou osso.
+
+    Exemplos: queimaduras de terceiro grau, úlceras por
+
+   pressão grau III/IV    . Cicatrização envolve granulação
+   extensa e queratinização.
+
+
+Classificação pela carga microbiana
+
+    • Ferida limpa: Ambiente estéril, sem sinais de
+
+   inflamação. Ex.: incisão cirúrgica limpa sem penetração de
+
+   trato.
+    • Ferida limpa-contaminada: Cirúrgica com breve
+
+   penetração de trato digestivo, respiratório, geniturinário;
+   microbiota normal, sem contaminação excessiva.
+
+    • Ferida contaminada: Traumas ou cirurgia com ruptura
+
+   significativa do trato ou perfuração recente. Apresenta
+
+   contaminação bacteriana considerável, mas sem infecção
+
+   estabelecida.
+
+    • Ferida infectada: Microrganismos patogênicos proliferando,
+
+   sinais clínicos de infecção (eritema, calor, pus) estão presentes.
+
+   Requer terapia antimicrobiana e desbridamento
+            .
+Resumo Comparativo:
+Referências do Capítulo 2:
+
+
+  1. Woo K, et al. Classification of Wound Types. In: Krasner DL,
+
+    Rodeheaver GT, Sibbald RG, editors. Chronic Wound Care: A
+
+    Clinical Source Book for Healthcare Professionals. 5th ed.
+
+    Wayne: HMP Communications; 2015. p. 13–25.
+
+  2. World Union of Wound Healing Societies. Principles of Best
+
+    Practice: Wound Classification. 2016.
+
+  3. Schultz GS, et al. Wound bed preparation: a systematic
+
+    approach to wound management. Wound Repair Regen.
+
+    2015;23(4):345–55.
+
+  4. Sociedade Brasileira de Cirurgia Vascular/Angiologia. Diretriz
+
+    Brasileira de Úlcera de Pé Diabético. Rev Soc Bras Angiol Cir
+
+    Vasc. 2020;13(2):75–88.
+
+
+
+
+Questões do Capítulo 2:
+1. (Múltipla escolha) Qual característica distingue uma ferida
+
+  crônica?
+
+  a) Ocorre por trauma agudo;
+
+  b) Cicatriza dentro de 2 semanas;
+
+  c) Persiste além de 6 semanas;
+
+  d) É sempre limpa.
+
+2. (V/F) Feridas fechadas incluem contusões e hematomas.
+
+3. (Múltipla escolha) Uma úlcera que atinge músculo e osso é
+
+  classificada como:
+
+ a) Parcial;
+
+ b) Total;
+
+ c) Limpa;
+
+ d) Contaminada.
+
+4. (V/F) Uma ferida cirúrgica com perfuração de intestino é
+
+  considerada limpa-contaminada.
+
+5. (Múltipla escolha) Qual exemplo é de ferida aberta?
+
+ a) Equimose;
+
+ b) Laceração;
+
+ c) Cefaléia;
+    d) Diplopia.
+
+Respostas no gabarito final.
+CAPÍTULO 3: FISIOLOGIA DA
+
+CICATRIZAÇÃO DE FERIDAS
+A cicatrização de feridas é um processo biológico complexo,
+coordenado e adaptativo, que restaura a integridade e a função da
+
+pele lesionada. Ela ocorre em quatro fases que se sobrepõem:
+
+hemostasia, inflamação, proliferação e remodelação          .
+• Hemostasia (minutos-horas): Imediatamente após a lesão, há
+
+vasoconstrição, adesão plaquetária e formação de coágulo de
+
+fibrina para estancar o sangramento. Plaquetas liberam fatores de
+crescimento    (PDGF,    TGF-β)   que   recrutam     neutrófilos   e
+
+fibroblastos        .
+
+   • Inflamação (1–4 dias): Vasodilatação e migração de células
+
+    imunes (neutrófilos, macrófagos, linfócitos) limpam debris,
+    bactérias e tecido necrosado. Macrófagos secretam citocinas e
+
+    fatores de crescimento (EGF, VEGF) que sinalizam as
+
+    próximas fases      . Esse balanço inflamatório é crítico;
+
+    inflamação excessiva ou prolongada pode levar a cicatrização
+    deficiente ou crônica.
+   • Proliferação (4–21 dias): Nesta fase, fibroblastos depositam
+
+       colágeno tipo III, formam tecido de granulação rico em vasos
+
+       sanguíneos (angiogênese) e matriz extracelular. Células
+
+       endoteliais   e   epiteliais    migram   para   fechar   a   ferida
+
+       (epitelização). O tecido de granulação é rosa-avermelhado e
+
+       resistente a infecções         . Umidade adequada e oxigenação
+       favorecem esta fase.
+
+
+   •     Remodelação (>21 dias até 1 ano): O colágeno III é
+
+       substituído por colágeno I mais forte, alinhado segundo linhas
+
+       de tensão. Contratilidade da ferida reduz sua área. A força
+
+       máxima da cicatriz atinge ~80% da pele normal com o tempo .
+
+       Se fatores adversos (infecção, diabetes) estiverem presentes,
+       essa fase pode prolongar ou resultar em cicatrizes patológicas
+
+       (hipertróficas, quelóides).
+
+
+Vários fatores sistêmicos modulam esse processo: idade avançada
+
+reduz proliferação celular; hiperglicemia prejudica funções de
+
+neutrófilos e macrófagos; deficiência de nutrientes (proteínas,
+
+vitaminas C, zinco) atrasa síntese colágena; medicamentos
+
+(corticosteroides, quimioterápicos) podem atenuar resposta imune
+. Fatores locais como isquemia, infecção e presença de biofilmes
+
+também impedem a progressão ordenada das fases cicatriciais.
+
+
+
+
+Resumo das Fases da Cicatrização:
+
+
+
+
+Tabela 3.1 – Fatores que Influenciam o Processo de Cicatrização
+Referências do Capítulo 3:
+
+
+  1. Guo S, DiPietro LA. Factors affecting wound healing. J Dent
+
+    Res. 2010;89(3):219–29.
+
+  2. Rodrigues M, Kosaric N, Bonham CA, et al. Wound
+
+    Healing: A cellular perspective. Physiol Rev.
+
+    2019;99(1):665–706.
+
+  3. Diegelmann RF, Evans MC. Wound healing: an overview of
+
+    acute, fibrotic and delayed healing. Front Biosci. 2004;9:283–9.
+
+  4. Shaw TJ, Martin P. Wound repair at a glance. J Cell Sci.
+
+    2009;122(Pt 18):3209–13.
+Questões do Capítulo 3:
+
+
+  1. (V/F) A fase de inflamação da cicatrização dura cerca de 1 a 4
+
+    dias.
+
+  2. (Múltipla escolha) Qual célula chega primeiro à ferida para
+
+    limpar bactérias?
+
+   a) Fibroblasto;
+
+   b) Macrófago;
+
+   c) Neutrófilo;
+
+   d) Osteócito.
+
+  3. (V/F) Colágeno do tipo III é inicialmente predominante na
+
+    fase proliferativa.
+
+  4. (Múltipla escolha) Fator sistêmico que atrasa cicatrização:
+
+    a) Nutrição adequada;
+
+    b) Diabetes mal controlada;
+
+    c) Oxigenação adequada;
+
+    d) Ausência de infecção.
+  5. (V/F) Na fase de remodelação ocorre substituição do colágeno
+
+    III por colágeno I.
+
+Respostas no gabarito final.
+CAPÍTULO 4: PATOLOGIA DOS
+
+TIPOS DE FERIDAS
+
+ 4.1 Feridas Agudas
+
+Feridas agudas são aquelas causadas por traumas súbitos (corte,
+queimadura, laceração) que seguem o curso normal de cicatrização
+
+sem complicações. Geralmente, apresentam:
+
+   • Causa clara: cirurgia, acidente, queimadura térmica/química.
+
+   • Resposta inflamatória normal: dor, eritema e edema iniciais
+
+    adequados.
+
+   • Tecido viável: bordos finos e bem vascularizados.
+
+   • Baixa contaminação: risco de infecção controlado com
+
+    desbridamento e higiene.
+
+   • Curativo simples: feridas limpas e estéreis (cirúrgicas) podem
+
+    requerer sutura e gaze; feridas traumáticas limpas
+
+    respondem a limpeza e curativos básicos.
+
+   • Exemplos: incisões cirúrgicas que cicatrizam sem
+
+    intercorrências, lacerações suturadas oportunamente,
+    queimaduras superficiais segundo grau.
+
+Em feridas agudas, casos graves (abrasões extensas, queimaduras
+
+profundes, ferimentos penetrantes com contaminação) podem
+
+progredir para feridas complicadas, exigindo terapia avançada
+
+(por exemplo, centrais, colagenases enzimáticas). Contudo, o
+padrão típico é cicatrização ordenada em poucas semanas.
+
+
+
+
+ 4.2 Feridas CrônicasFeridas crônicas resultam da falha
+em progredir pelas fases da cicatrização. Ficam
+
+frequentemente estagnadas em inflamação prolongada.
+Caracterizam-se por:
+
+   • Etiologia multifatorial: fatores sistêmicos (diabetes,
+
+    insuficiência venosa/arterial, imunossupressão) e
+
+    locais (hipóxia, compressão contínua, infecção).
+
+   • Patofisiologia desregulada: níveis elevados de citocinas
+
+    inflamatórias e metaloproteinases, recuado de fatores de
+
+    crescimento no leito da ferida, presença de tecido
+
+    desvitalizado ou biofilme bacteriano.
+• Aspecto clínico variado: bordas fixas, leito com tecido
+
+ esfacelado (amarelado) e necrose,
+
+ exsudato abundante e freqüente odor fétido se infectado. Dor
+
+ pode ser frequente (úlceras neuropáticas, arteriais) ou ausente
+
+ (pe diabetes).
+
+• Exemplos principais de feridas crônicas:
+
+
+ •     Úlceras     por     pressão:   Decorrentes    de     pressão
+
+ prolongada/forças de cisalhamento em pele comprimida contra
+
+ superfícies de suporte. Classificadas em estágios I–IV de
+
+ acordo com profundidade . Comuns em pacientes acamados,
+
+ idosos ou com mobilidade reduzida. Associadas a mortalidade
+
+ elevada e custos altos.
+
+ •   Úlceras venosas de perna: Relacionadas a insuficiência
+
+ venosa crônica. Localizam-se principalmente no terço inferior
+ da perna, bordas irregulares, frequentemente exsudativas e
+
+ com edema. A pele ao redor pode apresentar dermatite ocre.
+
+ Demoram meses ou anos para cicatrizar e recidivam facilmente
+
+ sem tratamento adequado (compressão, ambulação)            .
+ • Úlceras arteriais/periféricas: Devido à isquemia tecidual por
+
+ aterosclerose ou doença arterial periférica. Normalmente
+
+ dolorosas (principalmente em repouso/noite), fundo pálido,
+
+ necrose seca em úlceras avançadas. Localizam-se em áreas
+
+ distais (pés, dedos). Requerem melhora do fluxo sanguíneo
+
+ (angioplastia, cirurgia vascular) como base do tratamento     .
+
+ • Úlceras neuropáticas (pé diabético): Ocorrem em pacientes
+
+ diabéticos com neuropatia sensitiva e distúrbios vasculares.
+
+ Lesões, muitas vezes na planta dos pés ou joanetes, têm
+
+ calosidade circundante. São geralmente indolores e facilmente
+
+ infectam. A descamação sensorial impede alívio de pressão,
+
+ facilitando progressão para perfuração óssea (osteomielite)
+
+
+• Outras feridas crônicas: úlceras neoplásicas (marjolin),
+
+ feridas radioinduzidas, feridas de vasculite, úlceras por trauma
+
+ repetido etc. Cada uma apresenta particularidades de manejo.
+
+
+Complicações comuns: Feridas crônicas frequentemente
+
+ infeccionam (biofilme bacteriano estabelecido), apresentam
+
+ deiscência ou retração, e formam cicatrizes patológicas. A
+
+ condição do paciente, nutrição e comorbidades definem o
+    prognóstico. O tratamento requer abordagem multifatorial:
+
+    desbridamento regular, melhora de perfusão/oxigenação,
+
+    controle glicêmico e suporte nutricional.
+
+
+
+
+Tabela 4.1 – Comparativo de Feridas Crônicas
+Referências do Capítulo 4:
+
+
+  1. Guo S, DiPietro LA. Diabetic wounds: pathophysiology and
+
+    current open-doors to wound healing. Clinical and
+
+    Experimental Pharmacology and Physiology.
+
+    2015;42(7):698–705.
+
+  2. Sibbald RG, et al. Best Practice Recommendations for
+
+    the Prevention and Management of Pressure Injuries.
+
+    Wounds International; 2019.
+
+  3. Frykberg RG, Banks J. Challenges in the Treatment of
+
+    Chronic Wounds. Adv Wound Care (New Rochelle).
+
+    2015;4(9):560–582.
+
+  4. Sociedade Brasileira de Cirurgia de Pé Diabético.
+
+    Tratamento multidisciplinar das úlceras do pé diabético. Rev
+
+    Bras Cir Plást. 2022;37(4):e0478.
+Questões do Capítulo 4:
+
+
+  1. (V/F) Feridas crônicas geralmente cicatrizam dentro de 2-3
+
+    semanas sem complicações.
+
+  2. (Múltipla escolha) Em úlcera por pressão grau IV, observa-se:
+
+    a) Eritema não branqueável;
+
+    b) Exposição de tecido subcutâneo apenas;
+
+    c) Lesão muscular/óssea exposta;
+
+    d) Pele intacta.
+  3. (V/F) Úlceras arteriais tipicamente apresentam dor intensa e
+
+    fundo pálido ou necrosado.
+
+  4. (Múltipla escolha) O principal fator de risco para úlceras
+
+    neuropáticas é:
+
+   a) Pressão arterial elevada;
+
+   b) Tabagismo;
+
+   c) Neuropatia periférica diabética;
+
+   d) Obesidade.
+
+  5. (V/F) O edema e a dermatite ocre são achados comuns em
+
+    úlceras venosas de perna.
+Respostas no gabarito final.
+CAPÍTULO 5: AVALIAÇÃO DE
+
+FERIDAS
+Uma avaliação sistemática da ferida é etapa fundamental no
+
+manejo. Os profissionais devem documentar características
+
+locais e considerar fatores gerais do paciente.
+
+
+ Componentes da Avaliação
+
+   •     História clínica detalhada: Duração da ferida, evolução,
+
+       tratamentos prévios, causa inicial. Sintomas associados (dor,
+       prurido, descarga). História de doenças sistêmicas (diabetes,
+
+       doenças vasculares, reumatológicas), uso de medicações
+       (anticoagulantes, corticoides) e hábitos (fumo, atividade física).
+
+   •      Inspeção e mensuração da ferida: Observar tamanho
+
+       (comprimento,    largura,   profundidade),    forma,   localização
+       anatômica e profundidade. Utilizar régua ou fita métrica. É
+
+       útil tirar fotografias seriadas, mantendo padronização de
+
+       distância e ângulo. Classificar tecido no leito:
+• Granulação (vermelha-vitál), esfacelo (amarelo, necrose
+
+    fibrinosa) ou escara (preta, necrose seca).
+
+• Quantificar proporção de cada tecido. Observar bordas
+
+    (adincentes, maceradas, adelgaçadas) e surcos perimetrais.
+
+• Verificar odores, secreções (serosas, purulentas), presença de
+
+    biofilme aparente.
+
+
+•      Exsudato: Caracterizar quantidade (secura, moderada,
+
+    abundante), viscosidade e cor. Excesso de exsudato indica
+
+    inflamação aguda ou infeção. Pele macerada nas bordas
+
+    sugere excesso de umidade.
+
+
+• Dor: Avaliar tipo e intensidade (escala de dor). Dor constante
+
+    pode indicar infecção ou isquemia, enquanto dor à pressão
+
+    (pode indicar leitoso não saudável).
+
+
+• Infecção: Procurar sinais locais (eritema, calor, inchaço, pus,
+
+    dor) e sistêmicos (febre, linfangite). Em feridas crônicas
+
+    suspeitar de infecção oculta; cultivos de ferida só quando há
+
+    sinal clínico, evitando coleta de parede superficial sem
+
+    necessidade     .
+  • Áreas de pressão e perfusão: Avaliar risco de úlceras por
+
+   pressão utilizando escalas (por ex. Braden, Norton). Medir
+
+   circunferência e volume de extremidades edemaciadas. Checar
+
+   pulsos periféricos, teste de preenchimento capilar, índice
+
+   tornozelo-braquial   (ITB)   se       disponível   para   investigação
+
+   vascular.
+
+
+Escalas e Ferramentas
+
+ • Escala de Braden: Avalia risco de úlcera por pressão em
+
+   adultos (sensibilidade, nutrição, umidade, mobilidade,
+
+   fricção/cisalhamento)             .
+
+  • PUSH (Pressure Ulcer Scale for Healing): Foca em
+
+   úlceras por pressão, pontuando área, exsudato e tipo de
+
+   tecido de leito.
+
+  • Bates-Jensen Wound Assessment Tool (BWAT): Avalia
+
+   múltiplos parâmetros de feridas crônicas, incluindo
+
+   dimensão, profundidade, bordas, etc.
+
+  • Índice Tornozelo-Braquial (ITB): Para suspeita de doença
+
+   arterial; ITB <0,9 sugere isquemia.
+
+  • Avaliação nutricional: Índice de massa corporal (IMC),
+
+   avaliação de albumina, deficiência de micronutrientes pode
+    retardar cicatrização.
+
+Tabela 5.1 – Parâmetros da Avaliação de Ferida
+Referências do Capítulo 5:
+
+
+  1. Coleman S, et al. Pressure ulcer risk factors: a multivariate
+
+    analysis. J Adv Nurs. 2019;75(4):736–43.
+
+  2. Edsberg LE, et al. Revised National Pressure Injury Advisory
+
+    Panel Pressure Injury Staging System. J Wound Ostomy
+
+    Continence Nurs. 2016;43(6):585–97.
+
+  3. Baranoski S, Ayello EA. Wound Assessment. In: Wound Care
+
+    Essentials: Practice Principles. 4th
+
+    ed. Philadelphia: Lippincott Williams & Wilkins; 2016. p. 45–58.
+  4. World Health Organization. Wound Infection Prevention and
+
+    Control Report. WHO; 2022.
+
+Questões do Capítulo 5:
+
+1-(Múltipla escolha) Ferramenta comumente usada para avaliação
+
+de risco de úlcera por pressão:
+
+    a) Escala de Norton;
+
+    b) Índice de perfusão cutânea;
+
+    c) Escala de Braden;
+
+    d) PRESSUREscore.
+
+2-(V/F) O ITB (índice tornozelo-braquial) é útil na avaliação de
+
+ perfusão arterial em membros inferiores.
+
+3-(Múltipla escolha) Tecido granulado em uma ferida indica:
+
+a) Infecção fúngica;
+
+b) Progresso de cicatrização;
+
+c) Necrose aguda;
+
+d) Carcinoma verrucoso.
+    4. (V/F) Bordas maceradas da pele ao redor de uma ferida sugerem
+                                             excesso de umidade local.
+        5. (Múltipla escolha) A presença de exsudato purulento com odor
+           forte sugere:
+    a) Cicatrização normal;
+
+    b) Infecção bacteriana provável;
+
+    c) Ferida limpa;
+
+    d) Desbridamento completo realizado.
+
+Respostas no gabarito final.
+CAPÍTULO 6: PRINCÍPIOS DO
+
+TRATAMENTO DE FERIDAS
+O manejo das feridas segue princípios básicos e avanços
+
+tecnológicos. O objetivo é criar um ambiente ótimo para
+
+cicatrização, controlando fatores adversos. Os pilares do tratamento
+incluem limpeza, desbridamento, escolha de curativos adequados e
+
+terapia direcionada (tópica ou sistêmica).
+
+
+ 6.1 Higienização e Prevenção de Infecção
+
+   •     Limpeza inicial: Remover detritos, matéria orgânica e
+
+       contaminação. Soluções isotônicas (soro fisiológico) são
+
+       preferidas para lavagem inicial       . Soluções antissépticas
+
+       (clorexidina, povidona- iodo, detergentes suaves) são usadas
+
+       quando há contaminação alta, mas com cuidado para não lesar
+       tecido saudável. O uso de água morna ou alcalina neutra ajuda
+
+       na diluição de sangue e exsudato.
+
+
+       • Prevenção de infecção: Após limpeza, aplicar antissépticos
+
+       tópicos (clorexidina, prata coloidal, iodopovidona) em casos de
+    risco; no entanto, evitar citotóxicos em uso prolongado.
+
+    Culturas microbiológicas só se indicam em suspeita de infecção
+
+    clínica   (evita   resultados    irrelevantes   de   colonização)   .
+
+    Antibióticos    sistêmicos      são   reservados     para   infecções
+
+    estabelecidas      ou    colonização      extensa     em    paciente
+    imunossuprimido.
+
+
+   • Cobertura protetora inicial: Após limpar, secar levemente e
+
+    cobrir com curativo primário não aderente (gaze estéril,
+
+    hidrogel) para manter o leito úmido e protegido.
+
+
+ 6.2 Desbridamento (Eliminação de Tecido
+
+Devitalizado)
+
+Tecido desvitalizado abriga microrganismos e atrasa a cicatrização.
+
+Formas de desbridamento:
+
+
+   • Mecânico: Lavagens pressurizadas (gás pressurizado),
+
+    micropore ou escolha de gaze (não tão recomendada).
+
+    Procedimentos mais agressivos (hidroterapia) caíram em
+
+    desuso por lesão de tecido saudável.
+
+   • Enzimático: Aplicação de colagenases tópicas (ex.: colagenase
+
+    de Clostridium) dissolvem tecido
+ necrosado de forma seletiva. Útil em feridas com muito tecido
+
+ esfacelado.
+
+• Autolítico: Curativos oclusivos (hidrocoloides, hidrogéis) para
+
+ manter exsudato no leito, permitindo que enzimas naturais
+
+ decomponham necrose. Processo lento, mas menos doloroso
+
+ e seletivo. Contraindicado em feridas infectadas (pode abafar
+
+ infecção).
+
+• Cirúrgico (sangrento): Retirada rápida de tecido desvitalizado
+
+ feita por cirurgião ou enfermeiro
+
+ treinado, usando bisturi/tesoura. Indicado em casos
+
+ extensos ou graves, quando desbridamentos suaves não
+ são suficientes. Pode ser realizado em centro cirúrgico
+
+ (sob anestesia) em casos complexos.
+
+• Biológico (larval): Larvas estéreis de mosca (Lucilia sericata)
+
+ consomem tecido necrótico e
+
+ bactérias, liberando enzimas que limpam feridas crônicas.
+
+ Eficaz mas pouco disponível em muitos centros.
+ 6.3 Curativos e Coberturas
+A manutenção de ambiente úmido é essencial para
+cicatrização (facilita migração celular e angiogênese) . Tipos
+de curativos:
+
+   • Hidrogel: Gel à base de água que hidrata feridas secas
+
+    (úlcera arterial, deiscência). Ajuda no desbridamento
+    autolítico.
+
+   • Hidrocoloide: Camada aderente de alginato gelificado. Bom
+
+    para feridas de exsudação leve a moderada; mantém
+    umidade e facilita desbridamento. Não indicada em feridas
+
+    muito exsudativas ou infectadas (pode macerar bordas).
+   • Alginatos de cálcio: Adesivos de alginato absorvente,
+
+    transforma-se em gel em contato com
+    exsudato. Indicado em feridas profundas ou cavitárias com
+
+    muito exsudato (úlcera venosa exsudativa)          .
+
+   • Espumas: Absorção moderada a alta; conforto à pele
+
+    circundante e isolamento térmico.
+
+    Indicado em úlceras por pressão moderadas.
+
+   • Filmes Transparentes (tegaderm): Films finos, permeáveis ao
+
+    vapor d’água, impermeáveis a bactérias. Ideais para feridas
+       superficiais sem grande exsudato, ou como curativo
+
+       secundário para fixar outros.
+
+   •     Gazes especiais (Carvão ativado, prata): Carvão ativado
+
+       melhora odor, usado em feridas
+
+       fétidas; géis de prata ou meias de prata em feridas infectadas
+
+       ou de difícil cicatrização, pela ação antimicrobiana.
+
+
+
+
+Tabela 6.1 – Tipos de Curativos e Indicações
+6.4 Terapias Adjuvantes
+  • Terapia por pressão negativa (TPN/NPWT): Dispositivo que
+
+   aplica sucção contínua/controlada no leito da ferida com
+
+   esponja estéril e selo oclusivo. Promove angiogênese,
+ remove exsudato e proteínas inflamatórias, aproxima
+
+ bordas. Indicada em feridas complexas, cavitárias,
+
+ cirúrgicas abertas e para preparação pré-cirúrgica de
+ enxertos. Vários estudos demonstram aceleração da
+
+ cicatrização e redução de infecções em feridas
+
+ selecionadas          .
+
+• Oxigenoterapia hiperbárica (OHB): Pacientes mergulham em
+
+ câmara de alta pressão com O₂ puro. Aumenta pressões
+
+ parciais de oxigênio no tecido, estimulando angiogênese e
+
+ combatendo infecção (bactérias anaeróbias). Indicada em
+
+ feridas isquêmicas graves, osteomielite, infecções
+
+ necrotizantes. Eficaz mas requerente de infraestrutura.
+
+• Fatores de crescimento e plasma rico em plaquetas (PRP):
+
+ Fatores como PDGF, EGF podem
+
+ ser aplicados no leito para estimular fibroplasia. O PRP (obtido
+
+ de sangue do paciente) concentra os fatores de crescimento e
+
+ citocinas. Evidências são promissoras em alguns estudos, mas
+
+ custo e padronização ainda limitam uso rotineiro.
+
+• Terapia celular e bioengenharia: Enxertos dérmicos ou
+
+ epidermicos bioengenheirados
+    (colágeno ou matriz celular com fibroblastos) oferecem
+
+    estrutura para cicatrização, liberam fatores. Indicados em
+
+    úlceras crônicas refratárias e queimaduras extensas. Novos
+
+    campos incluem terapia com células-tronco mesenquimais, fitas
+
+    biológicas e medicamentos de matriz.
+
+
+
+
+Referências do Capítulo 6:
+
+
+  1. Romanelli M, Vowden P, Weir D; EWMA Document.
+
+    International Wound Bed Preparation Advisory Board:
+
+    antimicrobial stewardship in wound care. J Wound Care.
+
+    2019;28(Suppl 6):S1–S52.
+
+  2. Dumville JC, et al. Negative pressure wound therapy for
+
+    treating foot wounds in people with diabetes. Cochrane
+
+    Database Syst Rev. 2015;2015(6):CD011020.
+
+  3. Kranke P, et al. Hyperbaric oxygen therapy for chronic
+
+    wounds and other problems. Cochrane Database Syst
+
+    Rev. 2012;4:CD004123.
+
+  4. Edwards R, et al. Topical therapies and dressings for healing
+
+    venous leg ulcers. Cochrane Database Syst Rev.
+    2019;3:CD012628.
+
+
+
+
+Questões do Capítulo 6:
+
+
+  1. (Múltipla escolha) O desbridamento enzimático é realizado
+
+    usando:
+
+   a) Bisturi cirúrgico;
+
+   b) Larvas estéreis;
+
+   c) Colagenase tópica;
+
+   d) Lavagem pressurizada.
+
+  2. (V/F) Curativos de hidrogel mantêm a ferida úmida, facilitando
+
+    desbridamento autolítico.
+
+  3. (Múltipla escolha) Terapia por pressão negativa:
+
+    a) É contraindicada em feridas infectadas;
+
+    b) Usa gás carbônico para desinfetar;
+
+    c) Promove remoção de exsudato;
+
+    d) É a mesma coisa que oxigenoterapia hiperbárica.
+  4. (V/F) Oxigenoterapia hiperbárica pode beneficiar feridas
+
+    isquêmicas e infecções graves.
+
+
+
+  5. (Múltipla escolha) Ferida com exsudato moderado a alto:
+
+    curativo recomendado:
+
+    a) Filme transparente fino;
+
+    b) Gaze seca; c)
+
+    Espuma absorvente;
+
+    d) Nenhum; deixar aberta ao ar.
+
+Respostas no gabarito final.
+CAPÍTULO 7: PREVENÇÃO DE
+
+FERIDAS: ABORDAGEM PROATIVA
+A prevenção é tão importante quanto o tratamento. Estratégias
+
+visam evitar feridas por pressão, úlceras de pé diabético e
+traumas ocupacionais. Elas incluem medidas gerais e específicas.
+
+
+ 7.1 Prevenção de Úlceras por Pressão
+
+   • Avaliação de risco: Todo paciente hospitalizado ou
+
+    imobilizado deve ser avaliado com uma escala como Braden
+
+    ou Norton. Pacientes com escore baixo (alto risco) requerem
+    intervenções imediatas.
+
+   • Reposição frequente: Mudar de decúbito a cada 2 horas, ou
+
+    conforme tolerância, aliviando
+
+    pontos de pressão (sacro, calcanhares). Utilizar suportes
+
+    auxiliares (almofadas, cunhas).
+
+   • Superfícies especiais: Colchões e almofadas de ar ou gel
+
+    para redistribuição de pressão em pacientes acamados ou
+
+    cadeirantes.
+• Higiene e cuidado da pele: Manter a pele limpa e seca, evitar
+
+ atrito ao movimentar o paciente, nutrir a pele com emolientes.
+
+ Controlar incontinência (umidade).
+  •      Nutrição:     Altas   necessidades   protéicas   e   calóricas;
+
+      suplementação de vitaminas (especialmente vitamina C, zinco)
+      se necessário.
+
+  • Orientação familiar: Ensinar cuidadores sobre sinais iniciais
+
+      de úlcera por pressão (eritema persistentemente vermelho
+      em pele de cor clara, ou mudança de cor na pele preta), e
+
+      sobre reposicionamento.
+
+
+7.2 Prevenção de Úlceras de Pé Diabético
+
+  • Controle glicêmico rigoroso: Níveis de glicose elevados
+
+      atrasam cicatrização e predisposição a infecções.
+
+  • Exame diário dos pés: Pacientes diabéticos devem inspecionar
+
+      pés diariamente (ou ter cuidador para isso), procurando calos,
+      cortes, bolhas ou vermelhidão.
+
+  • Calçados adequados: Uso de calçados ortopédicos e palmilhas
+
+      que reduzam pontos de pressão. Nunca andar descalço.
+
+  • Tratamento de neuropatia: Se necessário, usar órteses ou
+
+      reduzir peso local em áreas de neuropatia (apoio
+
+      alternado).
+
+  • Podiatria preventiva: Remoção profissional de calosidades
+
+      espessas e orientações regulares.
+7.3 Prevenção de Feridas Venosas e Arteriais
+
+  • Insuficiência venosa: Meias de compressão graduada em
+
+   pacientes com edema e varizes, controle de hipertensão
+
+   venosa. Elevar membros inferiores para diminuir edema.
+  • Doença arterial: Cessação do tabagismo, controle de
+
+   lipídios e hipertensão, monitorar perfusão. Em suspeita
+   de claudicação, exame vascular e revascularização
+
+   precoce.
+
+
+7.4 Educação e Equipamentos
+  • Educação contínua: Treinar equipe e pacientes sobre
+
+   cuidados de pele, importância da mobilização e adesão ao
+
+   tratamento. Programas educacionais reduzem incidência de
+
+   novas feridas           .
+
+  • Uso racional de curativos: Em situações de prevenção (p. ex.,
+
+   bochechinas de colchão,
+
+   coberturas protetoras de calcanhar, curativos de silicone), evitar
+
+   produtos invasivos em pele íntegra; focar em barreiras de
+
+   pressão e supervisão.
+  • Estratégias organizacionais: Protocolos institucionais para
+
+   turnos de cheque, cupons de
+    frequência de mudança de decúbito e alertas eletrônicos.
+
+
+
+
+Referências do Capítulo 7:
+
+
+  1. EPUAP/NPUAP/PPPIA. Prevention and Treatment of Pressure
+
+    Ulcers: Clinical Practice Guideline. 2020.
+
+  2. National Institute for Health and Care Excellence (NICE).
+
+    Diabetic foot problems: prevention and management (NG19).
+
+    2023.
+
+  3. Santos PC et al. Recomendações para prevenção de
+
+    úlcera por pressão. Rev Bras Enferm. 2018;71(Suppl
+
+    1):640–3.
+
+  4. Lipsky BA, et al. 2012 IDSA Guideline for Diabetic Foot
+
+    Infections. Clin Infect Dis. 2012;54(12):e132– 73.
+Questões do Capítulo 7:
+
+
+  1. (V/F) Pacientes diabéticos devem inspecionar os pés
+
+    diariamente para prevenção de feridas.
+
+
+  2. (Múltipla escolha) Superfície ideal para reduzir pressão em
+
+    paciente acamado:
+
+   a) Colchão de espuma comum;
+
+   b) Almofada de gel ou colchão de ar alternante;
+
+   c) Toalha grossa;
+
+    d) Nenhuma, deixar em hard bed.
+
+
+
+  3. (V/F) Controlar glicemia é irrelevante na prevenção de úlceras
+
+    em paciente diabético.
+
+  4. (Múltipla escolha) Para prevenir úlceras por pressão no
+
+    calcanhar, recomenda-se:
+
+    a) Elevar calcanhar do leito com apoio de rolo;
+
+    b) Apertar a borda da cama contra o calcanhar;
+
+    c) Aplicar curativo oclusivo sem tirar pressão;
+  d) Ficar sem mudança de posição.
+
+
+5. (V/F) Meias de compressão têm papel na prevenção de úlceras
+
+  venosas.Respostas no gabarito final.
+CAPÍTULO 8: EPIDEMIOLOGIA E
+
+IMPACTO DAS FERIDAS
+Feridas, especialmente as crônicas, constituem um importante
+
+problema de saúde pública. A prevalência de feridas varia conforme
+a população: estudos europeus estimam que 1–2% da população
+
+adulta sofre de úlceras de perna em algum momento           . Nos
+Estados Unidos, cerca de 8 milhões de pessoas possuem feridas
+
+crônicas em tratamento, custando mais de US\$25 bilhões anuais ao
+Medicare
+
+. No Brasil, dados são menos consolidados, mas estudos regionais
+
+indicam prevalência de úlceras por pressão de 5–20% em pacientes
+hospitalizados e mortalidade elevada em feridas infectadas do pé
+
+diabético   .
+
+
+Impactos principais:
+
+
+   • Custos econômicos: Tratamento de feridas crônicas consome
+
+    recursos com consultas especializadas, curativos avançados,
+
+    internações repetidas e procedimentos (cirurgias, TPB). Em
+
+    países desenvolvidos, gastos com feridas crônicas aproximam
+
+    2–3% dos orçamentos de saúde
+   .
+• Qualidade de vida: Pacientes com feridas crônicas relatam
+
+ dor persistente, restrição de mobilidade e distúrbios do sono.
+
+ Úlceras por pressão pioram autoestima e intimidade, feridas
+
+ de pé diabético podem levar à amputação e
+ dependência            .
+
+ • Morbidade e mortalidade: Em estudo do pé diabético
+
+ infectado, até 17% dos pacientes
+
+ evoluem para amputação em 1 ano, e 10% sofrem
+
+ reinfecção após cicatrização     . Úlceras venosas não
+
+ tratadas podem progredir para eczema de estase ou
+
+ síndromes dolorosas.
+• Fatores associados: Idade avançada, diabetes, doenças
+
+ cardiovasculares e imobilidade
+
+ aumentam predisposição. Com o envelhecimento populacional,
+
+ espera-se maior demanda por cuidados de feridas.
+
+• Impacto social: Longos períodos de convalescença e
+
+ necessidade de cuidadores afetam famílias
+
+ e comunidades.
+ Referências do Capítulo 8:
+
+
+  1. Frykberg RG. Epidemiology of chronic wounds. Adv Wound
+
+    Care. 2015;4(9):560–4.
+
+  2. Sociedade Brasileira de Angiologia e Cirurgia Vascular.
+
+    Diretrizes sobre feridas vasculares. J Vasc Bras.
+
+    2020;19(3):e20190063.
+
+  3. Ministério da Saúde (BR). Vigilância de Feridas Crônicas
+
+    no SUS: Relatório técnico. Brasília: MS; 2022.
+
+  4. Frykberg R, Banks J. Challenges in the treatment of chronic
+
+    wounds. Adv Wound Care. 2015;4(9): 560–582.
+
+
+
+
+Questões do Capítulo 8:
+
+
+  1. (V/F) Feridas crônicas consomem cerca de 2–3% dos
+
+    orçamentos de saúde em alguns países.
+  2. (Múltipla escolha) Estimativa de pacientes com feridas crônicas
+
+    nos EUA (Medicare):
+
+    a) 100 mil;
+
+    b) 8 milhões;
+
+    c) 50 milhões;
+
+    d) 500 mil.
+
+  3. (V/F) O impacto das feridas crônicas inclui aumento de
+
+    qualidade de vida e redução de custos.
+
+  4. (Múltipla escolha) Em estudo de pacientes com pé diabético
+
+    infectado, a chance de amputação em 1 ano foi estimada em:
+
+    a) 1%;
+
+    b) 5%;
+
+    c) 17%;
+    d) 50%.
+
+  5. (V/F) No Brasil, a prevalência de úlceras por pressão em
+
+    internados pode chegar a 20%.
+
+Respostas no gabarito final.
+CAPÍTULO 9: O PAPEL DA
+
+EDUCAÇÃO EM CUIDADOS COM
+
+FERIDAS
+A educação é componente crucial para melhorar resultados em
+
+feridas. Profissionais bem treinados implementam práticas baseadas
+em evidências, enquanto pacientes informados têm maior adesão às
+
+orientações de autocuidado.
+
+
+ Educação dos Profissionais de Saúde
+
+   • Formação continuada: Programas de atualização (cursos,
+
+    workshops, certificações em nursing especializado em feridas)
+
+    capacitam a equipe para reconhecer e tratar feridas
+    complexas.
+
+   • Protocolos institucionais: Manuais e fluxogramas padronizam
+
+    abordagens (p. ex., algoritmo de tratamento de úlcera de
+
+    perna, esquema de desbridamento). Equipes interdisciplinares
+
+    (enfermagem, fisioterapia, nutrição, angiologia) devem realizar
+    rounds conjuntos para discutir casos complexos.
+ • Levantamento de Competências: Aferir a capacidade da
+
+   equipe em classificar feridas, aplicar curativos corretamente e
+
+   identificar infecções precocemente. Feedback e supervisão
+
+   melhoram a qualidade da assistência            .
+
+
+Educação de Pacientes e Cuidadores
+
+  • Informação sobre ferida: Explicar a causa da ferida, fases da
+
+   cicatrização e importância de cada cuidado (higiene, mudança
+
+   de curativo, nutrição). Compreensão do paciente aumenta o
+
+   engajamento.
+  • Orientação prática: Demonstração de troca de curativo estéril,
+
+   aplicação de cremes ou meias
+
+   de compressão. Treinamento de cuidadores familiares ou
+
+   domésticos sobre técnicas básicas (lavagem das mãos,
+
+   proteção da ferida).
+
+  • Prevenção secundária: Ensinar sinais de alerta (aumento de
+
+   vermelhidão, dor, secreção) que
+
+   exigem retorno ao serviço. Instruir sobre atividades de alívio de
+
+   pressão em casa e exercícios prescritos (ex.: fisioterapia de
+
+   marcha).
+   • Apoio psicosocial: Feridas crônicas podem gerar angústia e
+
+    isolamento. Grupos de apoio ou
+
+    consultas psicológicas auxiliam no manejo emocional.
+
+    Profissionais devem respeitar diversidade cultural e linguagem
+
+    do paciente ao fornecer orientação.
+Estudos mostram que programas educativos domiciliares reduzem
+complicações e melhoram a cicatrização de feridas crônicas     . Em
+
+conclusão, a educação fortalece a capacidade de intervenção –
+
+tanto do profissional (técnica e conhecimento) quanto do paciente
+
+(autogestão) – melhorando os desfechos em feridas          .
+Referências do Capítulo 9:
+
+
+  1. Fletcher J, et al. The importance of patient education
+
+    in wound management. Nurs Times. 2018;114(9):18–
+
+    21.
+  2. Ferreira MR, et al. Efetividade de programa de educação
+
+    domiciliar em feridas crônicas: revisão sistemática. Rev
+
+    Bras Enferm. 2020;73(6):e20190223.
+
+  3. Ministério da Saúde (BR). Manual de Curativos: Educação
+
+    em Saúde. Brasília: MS; 2021.
+
+  4. World Health Organization. Patient Engagement and
+
+    Empowerment Guidelines. WHO; 2022.
+
+
+
+
+Questões do Capítulo 9:
+
+
+  1. (V/F) Programas de educação para cuidadores podem
+
+    melhorar os resultados em feridas crônicas.
+  2. (Múltipla escolha) Profissional mais indicado para orientar
+
+    um paciente recém-diagnosticado com diabetes sobre
+    cuidados de pés:
+
+    a) Dentista;
+
+    b) Médico ou enfermeiro especializado em feridas; c)
+
+    Nutricionista apenas;
+
+    d) Fisioterapeuta sem experiência prévia.
+
+  3. (V/F) Protocolos institucionais não são necessários se o
+
+    profissional for experiente.
+
+  4. (Múltipla escolha) Que componente NÃO faz parte da
+
+    educação ao paciente:
+
+    a) Explicar causa da ferida;
+
+    b) Ensinar técnicas de troca de curativo;
+
+    c) Ignorar perguntas do paciente;
+
+    d) Orientar sinais de alarme.
+
+
+  5. (V/F) A educação em saúde não impacta a adesão do paciente
+
+    ao tratamento.
+
+Respostas no gabarito final.
+CAPÍTULO 10: CUIDADOS
+
+ESPECÍFICOS POR POPULAÇÕES
+
+ 10.1 Idosos
+Pacientes idosos frequentemente têm pele atrofiada, menor
+vascularização e múltiplas comorbidades (diabetes, insuficiência
+
+cardíaca, desnutrição). Essas alterações retardam a cicatrização
+e elevam risco de feridas por pressão. Intervenções: - Avaliação
+
+geriátrica abrangente (nutrição, mobilidade, estado cognitivo) . -
+Mobilização precoce e exercícios de fisioterapia para prevenir atrofia
+
+muscular. - Manuseio gentil da pele frágil (uso de curativos
+siliconados, evitar micropore adesivo). - Ajuste na hidratação e
+
+suplementação de proteínas/vitamina D. - Monitorização frequente
+
+de feridas por profissionais de saúde em casa e equipe de saúde da
+
+família.
+
+
+ 10.2 Diabéticos
+Diabetes mellitus causa neuropatia e microangiopatia, impedindo
+cicatrização normal. Estratégias: - Manutenção rigorosa da glicemia
+
+(ideal HbA1c <7%, segundo consensos) para não prejudicar funções
+
+imunológicas e enzimáticas do reparo . - Avaliação vascular dos
+pés     (doppler,     punção      capilar)     para   planejamento       de
+
+revascularização em úlceras isquêmicas. - Uso de órteses e
+
+calçados adequados para redistribuição de carga. - Desbridamento
+
+regular de calosidades. - Controle de infecção mais agressivo, dado
+
+risco aumentado de osteomielite.
+
+
+ 10.3 Imunossuprimidos
+Pacientes     com       terapia     imunossupressora          (transplantes,
+quimioterapia, HIV) têm defesas              comprometidas:    -   Profunda
+
+avaliação de infecção (incluindo micobactérias e fungos) em
+
+feridas que não cicatrizam          . - Uso criterioso de antibióticos
+
+profiláticos, evitando superinfecções. - Considerar aumento de
+
+dosagem de fatores de crescimento em tópico ou terapia celular
+
+para compensar déficit de cicatrização. - Manter contato próximo
+
+com equipe de doenças infecciosas.
+
+Referências do Capítulo 10:
+
+
+  1. Bryant RA, Nix DP. Sabiston: Tratado de Cirurgia.
+
+      Capítulo: Feridas e queimaduras em idosos e
+
+      imunossuprimidos. 9ª ed. Rio de Janeiro: Guanabara
+
+      Koogan; 2022.
+  2. American Diabetes Association. Standards of Medical Care
+
+    in Diabetes—2023. Diabetes Care. 2023;46(Suppl 1):S1–
+
+    S154.
+
+  3. Bertram A, et al. Management of diabetic foot infections:
+
+    international consensus guidelines. Diabetologia.
+
+    2023;66:712–732.
+
+
+
+
+Questões do Capítulo 10:
+1. (Múltipla escolha) Fator que MAIS prejudica cicatrização em
+
+  idosos:
+
+  a) Hipervitaminose C;
+
+  b) Pele finamente vascularizada;
+
+  c) Mobilização ativa;
+
+  d) Dieta rica em proteínas.
+
+
+2. (V/F) Pacientes diabéticos podem apresentar úlceras plantares
+
+  indolores devido à neuropatia.
+
+
+
+3. (Múltipla escolha) Em imunossuprimidos, é recomendado:
+
+  a) Excluir antibióticos mesmo na infecção;
+
+  b) Avaliar microrganismos oportunistas em feridas não
+
+  cicatrizadas;
+
+  c) Evitar todos os curativos úmidos;
+
+  d) Aumentar glicose para acelerar cicatrização.
+
+4. (V/F) Pacientes idosos geralmente possuem resposta imune
+
+  conservada e cicatrização rápida.
+  5. (Múltipla escolha) Manejo inicial para pé diabético de risco
+
+    inclui:
+
+    a) Sutura imediata da úlcera;
+
+    b) Semelhança de calcanhar sem posicionamento;
+
+    c) Hidratação e redução de glicose;
+
+    d) Amputação imediata.
+
+Respostas no gabarito final.
+CAPÍTULO 11: USO RACIONAL DE
+
+ANTIMICROBIANOS EM FERIDAS
+O uso indiscriminado de antibióticos em feridas promove
+
+resistência e não melhora cicatrização quando não há infecção.
+Orientações:
+
+    • Infecção vs Colonização: Diferenciar ferida infectada (sinais
+
+    clínicos presentes) de colonizada (bactérias presentes sem
+
+    inflamação). Antibióticos sistêmicos são indicados apenas
+    em casos de infecção sistêmica ou extensa (IDSA 2012)
+
+      .
+
+   • Cultura adequada: Coletar material do leito após limpeza
+
+    (pode ser por biópsia ou swab abaixo
+
+    de tecido desvitalizado) para guiar terapia, especialmente se
+
+    houver crescimento de patógenos multirresistentes.
+   • Terapia tópico vs sistêmica: Antissépticos tópicos (prata, iodo-
+
+    povidona, polihexanida)
+
+    combatem microrganismos localmente sem risco de resistência
+    sistêmica. São úteis em feridas crônicas com biofilme suspeito.
+   • Biofilmes: Comunidades bacterianas embebidas em matriz
+
+    protetora. São resistentes a
+    antibióticos e imunidade. A melhor estratégia é o
+
+    desbridamento mecânico associado a antissépticos. Novos
+
+    agentes como moléculas dispersantes de biofilme estão em
+    pesquisa           .
+
+   • Stewardship: Seguir protocolos locais de antibióticos,
+
+    preferindo espectro estreito. Evitar
+
+    duplicidade. Reavaliar necessidade após 48–72 horas. Uso de
+
+    antimicrobianos orais é restrito a infecções leves moderadas;
+
+    infecções graves podem requerer intravenoso até controle.
+
+
+
+
+Referências do Capítulo 11:
+
+
+  1. Lipsky BA, et al. Antimicrobial stewardship in wound
+
+    care: WoundCore consensus. J Wound Care.
+
+    2016;25(1):1–64.
+  2. Swanson T, et al. Prevention of Biofilm in Wounds:
+
+    Current concepts and emerging strategies. Int Wound J.
+
+    2020;17(5):1188–1197.
+  3. Sociedade Brasileira de Infectologia. Manual de Terapêutica
+
+    Antimicrobiana. 4ª ed. São Paulo: SBI; 2021.
+
+Questões do Capítulo 11:
+
+
+  1. (V/F) O uso de antibióticos sistêmicos é indicado em feridas
+
+    limpas não infectadas.
+
+
+
+  2. (Múltipla escolha) Em feridas crônicas com suspeita de
+
+    biofilme, é recomendado:
+
+    a) Desbridamento + aplicação de antisséptico local; b)
+
+    Observação sem intervenção;
+
+    c) Uso de antibiótico oral de amplo espectro de rotina; d) Não
+
+    tratar até perfuração.
+
+  3. (V/F) Coleta de cultura superficial (após limpeza) pode orientar
+
+    terapia antibiótica.
+
+  4. (Múltipla escolha) Em terapia antimicrobiana racional, deve-se
+
+    priorizar:
+
+    a) Antibioticoterapia de amplo espectro sempre;
+
+    b) Espectro estreito dirigido pelo agente causador;
+    c) Uso combinado de vários antibióticos sem critério; d)
+
+    Terapia antimicótica em todas feridas.
+
+
+  5. (V/F) Biofilmes bacterianos são facilmente eliminados
+
+    apenas com cremes comuns de venda livre.
+
+
+
+
+Respostas no gabarito final.
+CAPÍTULO 12: INOVAÇÕES EM
+
+CURATIVOS E TERAPIAS
+
+REGENERATIVAS
+A indústria de cuidados com feridas tem desenvolvido tecnologias
+
+avançadas:
+
+
+   • Curativos inteligentes: Dispositivos que mudam de cor
+
+    conforme pH ou cargas bacterianas, indicando infecção
+
+    latente. Podem liberar medicamentos (nanopartículas de
+    prata, quitosana) em resposta a estímulos.
+
+   • Curativos multifuncionais: Alginatos com prata, hidrogéis com
+
+    antibióticos ou fatores de
+
+    crescimento incorporados, bandagens integradas a sensores
+    de pressão.
+
+   • Biomateriais avançados: Enxertos de pele bioengenheirada
+
+    (ex.: MatriStem® de matriz dérmica porcina), colágeno
+
+    recombinante e géis poliméricos que suportam adesão celular.
+
+    Tais biomateriais servem de scaffolds para proliferação e
+
+    diferenciação celular.
+   • Terapia celular: Uso de células-tronco mesenquimais (tecido
+
+    adiposo, medula) em suspensão
+    ou aplicado em matrizes. Essas células secretam
+
+    exossomos ricos em fatores angiogênicos e
+
+    imunomoduladores, acelerando a cicatrização e
+    regeneração tecidual          .
+
+   • Bioimpressão 3D: Estudos experimentais utilizam impressoras
+
+    3D para criar andares de pele
+
+    artificial ou bio-scaffolds personalizados usando células do
+
+    paciente, visando enxertos de pele sob medida.
+
+   • Terapias genéticas: Ensaios clínicos avaliam uso de vetores
+
+    virais ou plasmídeos plasmacítico
+
+    para incrementar a expressão de fatores de crescimento locais
+
+    (VEGF, FGF).
+
+   • Terapias de células-tronco de placenta e cordão umbilical:
+
+    Em úlceras crônicas, patches contendo células amnióticas
+
+    derivadas do cordão são um campo emergente de
+
+    pesquisa.
+
+Referências do Capítulo 12:
+  1. Atiyeh BS, Mostafa A. Advanced wound dressings: sutures
+
+    and wound dressings. Ann Burns Fire Disasters.
+
+    2022;35(4):251–6.
+
+  2. Bose S, et al. Recent advances in skin tissue engineering
+
+    and regenerative medicine. Biochim Biophys Acta Rev
+
+    Cancer. 2023;1877(4):188814.
+
+  3. Falanga V, et al. Apligraf (keratinocytes/fibroblasts) in hard-to-
+
+    heal diabetic foot ulcers: results from the US Phase III trial.
+
+    Wound Repair Regen. 2018;26(5):552–560.
+
+  4. Li J, et al. Bioengineered scaffolds for wound healing:
+
+    advances and future prospects. Mater Today. 2023;56:89–
+
+    115.
+
+Questões do Capítulo 12:
+
+
+  1. (Múltipla escolha) Exemplo de terapia celular utilizada em
+
+    feridas:
+
+    a) Látex de borracha como curativo;
+
+    b) Aplicação de células-tronco mesenquimais;
+
+    c) Antibióticos intravenosos;
+
+    d) Gaze simples.
+2. (V/F) Curativos modernos com prata podem ter ação
+
+  antimicrobiana local.
+
+
+
+3. (Múltipla escolha) Inovação em curativo “inteligente” envolve:
+
+ a) Liberação aleatória de água;
+
+ b) Mudança de cor ao detectar infecção;
+
+ c) Insensibilidade ao pH;
+
+  d) Uso exclusivo de algodão.
+
+
+
+4. (V/F) Bioimpressão 3D é uma técnica usada para criar tecidos
+
+  personalizáveis para enxertos.
+
+5. (Múltipla escolha) Patches de células do tecido amniótico
+
+  servem para:
+
+  a) Cauterizar feridas;
+
+  b) Inibir cicatrização;
+
+  c) Promover regeneração tecidual;
+
+  d) Evitar qualquer resposta celular.
+
+  Respostas no gabarito final.
+CAPÍTULO 13: CUIDADOS
+
+DOMICILIARES E ORIENTAÇÕES
+
+PARA CUIDADORES
+O manejo de feridas muitas vezes ocorre em domicílio, com
+
+participação do paciente e cuidador. Orientações incluem:
+
+   • Ambiente adequado: Manter local limpo. Lavar mãos
+
+    antes e depois de cuidar da ferida. Preparar tudo com
+
+    higiene (luvas estéreis, compressas esterilizadas).
+   • Mudança de curativo: Frequência recomendada (diariamente
+
+    ou a cada 2 dias, conforme indicação). Retirar
+
+    cuidadosamente o curativo anterior (solventes de adesivo se
+
+    necessário para evitar dor) e inspecionar a ferida. Se houver
+
+    sinais de infecção (dor crescente, secreção turva), procurar
+
+    equipe de saúde.
+   • Limpeza domiciliar: Na ausência de riscos, lavagem com soro
+
+    fisiológico é suficiente. Se houver
+
+    muito exsudato ou sujidade, pode-se usar solução salina
+
+    gerada por dispositivos (nunca água não estéril). Não usar
+ sabão forte em leito ferido.
+
+• Aplicação de pomadas/cremes: Seguir receita profissional.
+
+ Utilizar espátula estéril para
+
+ manipular pomadas (evita contaminação do tubo). Não
+
+ esfregar cremes na ferida sem orientação.
+
+• Proteção e imobilização: Em casos indicados (fraturas
+
+ associadas, fixação), utilizar
+
+ imobilizadores leves e proteger o membro de traumas
+
+ adicionais.
+
+• Sinais de alarme: Educar sobre febre inexplicada, edema
+
+ súbito, exsudato purulento ou mal cheiro, que requerem
+
+ retorno imediato.
+
+• Mobilização e higiene do paciente: Troca de posição,
+
+ exercícios leves para evitar atrofia e problemas circulatórios.
+
+ Manter higiene pessoal geral (banho sem molhar curativo
+ coberto, proteger ferida com filme plástico se necessário).
+
+• Suporte nutricional: Enfatizar ingestão proteica (leite, ovos,
+
+ carnes magras), vitaminas (frutas
+
+ cítricas), hidratação (água, chás sem cafeína) para sustentar a
+
+ cicatrização.
+Serviços de atenção domiciliar de feridas (home care) combinam
+
+visitas de enfermeiros, fisioterapeutas e nutricionistas para ajustar o
+
+plano. A telemedicina pode ser aliada: troca de fotos da ferida e
+
+consultas online reduzem deslocamentos para pacientes com
+
+mobilidade prejudicada. Ferramentas digitais com lembretes de
+
+troca de curativo ajudam no acompanhamento.
+
+
+
+
+Referências do Capítulo 13:
+
+
+  1. Dowsett C, et al. Effectiveness of home-based wound
+
+    care training for patients and caregivers: a systematic
+
+    review. J Wound Care. 2021;30(Sup9):S1–S16.
+
+  2. Ferreira SC, et al. Cuidados domiciliares para pacientes
+
+    com feridas crônicas: recomendações práticas. Ciênc
+
+    Saúde Colet. 2019;24(3):801–810.
+
+  3. Agência Nacional de Saúde Suplementar (ANS). Guia de
+
+    cuidados domiciliares em feridas crônicas. Brasília: ANS;
+
+    2023.
+Questões do Capítulo 13:
+
+ 1. (V/F) O cuidador domiciliar deve sempre usar luvas e
+
+   higienizar as mãos antes de trocar curativos.
+  2. (Múltipla escolha) Sinal de complicação que requer avaliação
+
+    médica:
+
+    a) Ferida progressivamente diminuindo;
+
+    b) Secreção purulenta e odor fétido;
+
+    c) Pele ao redor recuperando cor normal;
+
+    d) Diminuição da dor de forma gradual.
+  3. (V/F) Água da torneira filtrada é adequada para lavar feridas
+
+    profundas.
+
+
+
+  4. (Múltipla escolha) Orientação nutricional para paciente em
+
+    cicatrização deve priorizar:
+
+    a) Dieta rica em proteínas e vitaminas;
+
+    b) Exclusão completa de carboidratos;
+
+    c) Jejum intermitente;
+
+    d) Apenas líquidos claros.
+
+  5. (V/F) A telemedicina pode ser útil no acompanhamento de
+
+    feridas em pacientes com baixa mobilidade.
+
+Respostas no gabarito final.
+Referências Bibliográficas
+ 1. Abbade LPF, Lastória S. A importância do cuidado com
+
+   feridas crônicas. Rev Bras Cir Plást. 2018;33(2):255–60.
+
+ 2. Institute for Healthcare Improvement. Wound Care and
+
+   Pressure Ulcers. Cambridge: IHI; 2022.
+
+ 3. Sen CK, Gordillo GM, Roy S, et al. Human skin wounds: a
+
+   major and snowballing threat to public health and the
+
+   economy. Wound Repair Regen. 2009;17(6):763–71.
+ 4. Schultz GS, et al. Wound bed preparation: a systematic
+
+   approach to wound management. Wound
+
+   Repair Regen. 2015;23(4):345–55.
+
+ 5. Atiyeh BS, Costagliola M. Wound Care: Evidence-Based
+
+   Guidelines. Clin Dermatol. 2023;41(4):221– 30.
+
+ 6. Woo K, et al. Classification of Wound Types. In: Krasner DL,
+
+   Rodeheaver GT, Sibbald RG, eds.
+
+   Chronic Wound Care: A Clinical Source Book. 5th ed. Wayne:
+
+   HMP Communications; 2015. p. 13–25.
+
+ 7. World Union of Wound Healing Societies. Principles of Best
+
+   Practice: Wound Classification. 2016.
+ 8. Guo S, DiPietro LA. Factors affecting wound healing. J Dent
+
+   Res. 2010;89(3):219–29.
+
+ 9. Rodrigues M, Kosaric N, Bonham CA, Gurtner GC. Wound
+
+   Healing: A cellular perspective. Physiol Rev. 2019;99(1):665–
+
+   706.
+
+10. Diegelmann RF, Evans MC. Wound healing: an overview of
+
+   acute, fibrotic and delayed healing.
+
+   Front Biosci. 2004;9:283–9.
+
+11. Shaw TJ, Martin P. Wound repair at a glance. J Cell Sci.
+
+   2009;122(Pt 18):3209–13.
+
+12. Guo S, DiPietro LA. Diabetic wounds: pathophysiology and
+
+   current open-doors to wound healing.
+
+   Clinical and Experimental Pharmacology and Physiology.
+
+   2015;42(7):698–705.
+
+13. Sibbald RG, et al. Best Practice Recommendations for the
+
+   Prevention and Management of Pressure Injuries. Wounds
+
+   International; 2019.
+
+14. Frykberg RG, Banks J. Challenges in the treatment of
+
+   chronic wounds. Adv Wound Care. 2015;4(9): 560–582.
+15. Sociedade Brasileira de Cirurgia Vascular/Angiologia.
+
+   Diretriz Brasileira de Úlcera de Pé Diabético. Rev Soc
+
+   Bras Angiol Cir Vasc. 2020;13(2):75–88.
+
+16. Coleman S, et al. Pressure ulcer risk factors: a multivariate
+
+   analysis. J Adv Nurs. 2019;75(4):736–
+
+   43.
+
+17. Edsberg LE, et al. Revised National Pressure Injury
+
+   Advisory Panel Pressure Injury Staging System. J Wound
+
+   Ostomy Continence Nurs. 2016;43(6):585–97.
+
+18. Baranoski S, Ayello EA. Wound Assessment. In: Wound Care
+
+   Essentials: Practice Principles. 4th ed.
+
+   Philadelphia: Lippincott Williams & Wilkins; 2016. p. 45–58.
+
+19. Dowsett C, et al. Effectiveness of home-based wound care
+
+   training for patients and caregivers: a systematic review. J
+
+   Wound Care. 2021;30(Sup9):S1–S16.
+
+20. Edsberg LE, et al. Pressure Injuries: Clinical Practice
+
+   Guidelines. Adv Skin Wound Care. 2018;31(6):
+
+   289–300.
+21. Romanelli M, Vowden P, Weir D; EWMA Document.
+
+   International Wound Bed Preparation Advisory Board:
+   antimicrobial stewardship in wound care. J Wound Care.
+
+   2019;28(Suppl 6):S1–S52.
+22. Dumville JC, et al. Negative pressure wound therapy for
+
+   treating foot wounds in people with diabetes. Cochrane
+
+   Database Syst Rev. 2015;6:CD011020.
+
+23. Kranke P, et al. Hyperbaric oxygen therapy for chronic wounds
+
+   and other problems. Cochrane
+
+   Database Syst Rev. 2012;4:CD004123.
+
+24. Edwards R, et al. Topical therapies and dressings for
+
+   healing venous leg ulcers. Cochrane Database Syst Rev.
+   2019;3:CD012628.
+
+25. EPUAP/NPUAP/PPPIA. Prevention and Treatment of Pressure
+
+   Ulcers: Clinical Practice Guideline. 2020.
+26. National Institute for Health and Care Excellence (NICE).
+
+   Diabetic foot problems: prevention and management (NG19).
+
+   2023.
+
+27. Santos PC, et al. Recomendações para prevenção de
+
+   úlcera por pressão. Rev Bras Enferm. 2018;71(Suppl
+   1):640–3.
+
+28. Lipsky BA, et al. 2012 IDSA Guideline for Diabetic
+
+   Foot Infections. Clin Infect Dis. 2012;54(12):e132–
+
+   73.
+
+29. Frykberg RG. Epidemiology of chronic wounds. Adv Wound
+
+   Care. 2015;4(9):560–4.
+
+30. Sociedade Brasileira de Angiologia e Cirurgia Vascular.
+
+   Diretrizes sobre feridas vasculares. J Vasc Bras.
+
+   2020;19(3):e20190063.
+
+31. Ministério da Saúde (BR). Vigilância de Feridas Crônicas no
+
+   SUS: Relatório técnico. Brasília: MS; 2022.
+
+32. Fletcher J, et al. The importance of patient education in
+
+   wound management. Nurs Times. 2018;114(9):18–21.
+
+33. Ferreira MR, et al. Efetividade de programa de educação
+
+   domiciliar em feridas crônicas: revisão sistemática. Rev Bras
+
+   Enferm. 2020;73(6):e20190223.
+
+34. Bryant RA, Nix DP. Sabiston: Tratado de Cirurgia. 9ª ed.
+
+   Capítulo: Feridas e queimaduras em idosos e
+   imunossuprimidos. Rio de Janeiro: Guanabara Koogan;
+
+   2022.
+35. American Diabetes Association. Standards of Medical Care
+
+   in Diabetes—2023. Diabetes Care. 2023;46(Suppl 1):S1–
+
+   S154.
+
+36. Bertram A, et al. Management of diabetic foot infections:
+
+   international consensus guidelines.
+
+   Diabetologia. 2023;66:712–732.
+
+37. Lipsky BA, et al. Antimicrobial stewardship in wound care:
+
+   WoundCore consensus. J Wound Care. 2016;25(1):1–64.
+
+38. Swanson T, et al. Prevention of Biofilm in Wounds: Current
+
+   concepts and emerging strategies. Int Wound J.
+
+   2020;17(5):1188–1197.
+
+39. Sociedade Brasileira de Infectologia. Manual de Terapêutica
+
+   Antimicrobiana. 4ª ed. São Paulo: SBI; 2021.
+
+40. Bose S, et al. Recent advances in skin tissue engineering
+
+   and regenerative medicine. Biochim Biophys Acta Rev
+
+   Cancer. 2023;1877(4):188814.
+
+41. Falanga V, et al. Apligraf (keratinocytes/fibroblasts) in hard-to-
+
+   heal diabetic foot ulcers: results from the US Phase III trial.
+
+   Wound Repair Regen. 2018;26(5):552–560.
+42. Li J, et al. Bioengineered scaffolds for wound healing:
+
+   advances and future prospects. Mater
+
+   Today. 2023;56:89–115.
+
+43. Dowsett C, et al. Effectiveness of home-based chronic
+
+   wound care training for patients and caregivers. J Wound
+
+   Care. 2021;30(Sup9):S1–S11.
+
+44. Ferreira SC, et al. Cuidados domiciliares para pacientes com
+
+   feridas crônicas: recomendações práticas. Ciênc Saúde Colet.
+
+   2019;24(3):801–810.
+
+45. AgADBNT Agência Nacional de Saúde Suplementar (ANS).
+
+   Guia de cuidados domiciliares em feridas crônicas. Brasília:
+
+   ANS; 2023.
+GABARITO DAS QUESTÕES:
+
+ • Capítulo 2: 6-c, 7-V, 8-b, 9-V, 10-b.
+
+ • Capítulo 3: 11-V, 12-c, 13-V, 14-b, 15-V.
+
+ • Capítulo 4: 16-F, 17-c, 18-V, 19-c, 20-V.
+
+ • Capítulo 5: 21-c, 22-V, 23-b, 24-V, 25-b.
+
+ • Capítulo 6: 26-c, 27-V, 28-c, 29-V, 30-c.
+
+ • Capítulo 7: 31-V, 32-b, 33-F, 34-a, 35-V.
+
+ • Capítulo 8: 36-V, 37-b, 38-F, 39-c, 40-V.
+
+ • Capítulo 9: 41-V, 42-b, 43-F, 44-c, 45-F.
+
+ • Capítulo 10: 46-b, 47-V, 48-b, 49-F, 50-c.
+
+ • Capítulo 11: 51-F, 52-a, 53-V, 54-b, 55-F.
+
+ • Capítulo 12: 56-b, 57-V, 58-b, 59-V, 60-c.
+
+ • Capítulo 13: 61-V, 62-b, 63-F, 64-a, 65-V.
+

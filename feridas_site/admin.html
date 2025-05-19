@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel Administrativo - Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Portal de Estudos sobre Feridas</h1>
+                <p>Painel Administrativo</p>
+            </div>
+            <nav>
+                <div class="menu-toggle">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="resumos.html">Resumos</a></li>
+                    <li><a href="questoes.html">Banco de Questões</a></li>
+                    <li><a href="galeria.html">Galeria</a></li>
+                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a href="admin.html" class="active admin-only">Admin</a></li>
+                    <li><a href="#" class="logout-btn">Sair</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h2>Painel Administrativo</h2>
+                <p>Bem-vindo(a), <span class="user-name">Administrador</span>!</p>
+            </div>
+        </section>
+
+        <section class="admin-dashboard">
+            <div class="container">
+                <div class="admin-grid">
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-book"></i>
+                        </div>
+                        <h3>Gerenciar Resumos</h3>
+                        <p>Adicione, edite ou remova resumos do portal.</p>
+                        <a href="admin/gerenciar-resumos.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                    
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-question-circle"></i>
+                        </div>
+                        <h3>Gerenciar Questões</h3>
+                        <p>Adicione, edite ou remova questões do banco.</p>
+                        <a href="admin/gerenciar-questoes.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                    
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-images"></i>
+                        </div>
+                        <h3>Gerenciar Galeria</h3>
+                        <p>Adicione, edite ou remova imagens da galeria.</p>
+                        <a href="admin/gerenciar-galeria.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                    
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <h3>Gerenciar Usuários</h3>
+                        <p>Adicione, edite ou remova usuários do portal.</p>
+                        <a href="admin/gerenciar-usuarios.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                    
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-chart-bar"></i>
+                        </div>
+                        <h3>Estatísticas</h3>
+                        <p>Visualize estatísticas de uso do portal.</p>
+                        <a href="admin/estatisticas.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                    
+                    <div class="admin-card">
+                        <div class="admin-icon">
+                            <i class="fas fa-cog"></i>
+                        </div>
+                        <h3>Configurações</h3>
+                        <p>Configure as opções do portal.</p>
+                        <a href="admin/configuracoes.html" class="btn btn-primary">Acessar</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Portal de Estudos sobre Feridas</h3>
+                    <p>Conhecimento interativo para profissionais da saúde</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="resumos.html">Resumos</a></li>
+                        <li><a href="questoes.html">Banco de Questões</a></li>
+                        <li><a href="galeria.html">Galeria</a></li>
+                        <li><a href="sobre.html">Sobre</a></li>
+                        <li><a href="#" class="logout-btn">Sair</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p><i class="fas fa-envelope"></i> contato@portalferidas.com.br</p>
+                    <p><i class="fas fa-phone"></i> (00) 0000-0000</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Portal de Estudos sobre Feridas. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/auth.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/admin.js"></script>
+</body>
+</html>

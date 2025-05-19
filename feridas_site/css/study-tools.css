@@ -1,0 +1,304 @@
+/* Estilos para as ferramentas de estudo */
+
+/* Marca-texto */
+.highlighted-text {
+    padding: 2px 0;
+    border-radius: 2px;
+}
+
+.highlight-yellow {
+    background-color: rgba(255, 255, 0, 0.5);
+}
+
+.highlight-green {
+    background-color: rgba(0, 255, 0, 0.3);
+}
+
+.highlight-blue {
+    background-color: rgba(0, 191, 255, 0.3);
+}
+
+.highlight-pink {
+    background-color: rgba(255, 105, 180, 0.3);
+}
+
+.highlight-orange {
+    background-color: rgba(255, 165, 0, 0.3);
+}
+
+/* Menu de marca-texto */
+.highlight-menu {
+    position: absolute;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    padding: 8px;
+    z-index: 1000;
+    display: none;
+}
+
+.highlight-menu.active {
+    display: flex;
+    align-items: center;
+}
+
+.highlight-menu-title {
+    margin-right: 10px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.highlight-color-options {
+    display: flex;
+    gap: 5px;
+}
+
+.highlight-color-option {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.highlight-color-option:hover {
+    transform: scale(1.1);
+}
+
+.highlight-color-yellow {
+    background-color: rgba(255, 255, 0, 0.7);
+}
+
+.highlight-color-green {
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+.highlight-color-blue {
+    background-color: rgba(0, 191, 255, 0.5);
+}
+
+.highlight-color-pink {
+    background-color: rgba(255, 105, 180, 0.5);
+}
+
+.highlight-color-orange {
+    background-color: rgba(255, 165, 0, 0.5);
+}
+
+.highlight-remove {
+    background-color: #f8f8f8;
+    color: #666;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Anotações */
+.notes-container {
+    margin-top: 20px;
+    border-top: 1px dashed #ddd;
+    padding-top: 15px;
+}
+
+.notes-title {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: var(--primary-color);
+    display: flex;
+    align-items: center;
+}
+
+.notes-title i {
+    margin-right: 8px;
+}
+
+.note-input {
+    width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-family: inherit;
+    resize: vertical;
+}
+
+.note-input:focus {
+    border-color: var(--primary-color);
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2);
+}
+
+.note-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.saved-notes {
+    margin-top: 15px;
+}
+
+.note-item {
+    background-color: #f9f9f9;
+    border-left: 3px solid var(--primary-color);
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 0 4px 4px 0;
+}
+
+.note-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    font-size: 0.8rem;
+    color: var(--dark-gray);
+}
+
+.note-item-actions {
+    display: flex;
+    gap: 5px;
+}
+
+.note-item-actions button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--dark-gray);
+    font-size: 0.8rem;
+}
+
+.note-item-actions button:hover {
+    color: var(--primary-color);
+}
+
+.note-item-content {
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+/* Botão de ferramentas de estudo */
+.study-tools-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+    z-index: 100;
+    transition: all 0.3s ease;
+}
+
+.study-tools-toggle:hover {
+    transform: scale(1.1);
+}
+
+.study-tools-toggle i {
+    font-size: 1.2rem;
+}
+
+/* Painel de ferramentas de estudo */
+.study-tools-panel {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    width: 300px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    padding: 15px;
+    z-index: 99;
+    transform: translateY(20px);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.study-tools-panel.active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+}
+
+.study-tools-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.study-tools-header h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: var(--primary-color);
+}
+
+.study-tools-close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--dark-gray);
+    font-size: 1rem;
+}
+
+.study-tools-close:hover {
+    color: var(--primary-color);
+}
+
+.study-tools-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.study-tool-option {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.study-tool-option:hover {
+    background-color: #f5f5f5;
+}
+
+.study-tool-option i {
+    margin-right: 10px;
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
+
+.study-tool-option.active {
+    background-color: rgba(76, 175, 80, 0.1);
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .highlight-menu {
+        padding: 5px;
+    }
+    
+    .highlight-color-option {
+        width: 18px;
+        height: 18px;
+    }
+    
+    .study-tools-panel {
+        width: calc(100% - 40px);
+        right: 20px;
+    }
+}

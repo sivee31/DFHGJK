@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciar Resumos - Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Portal de Estudos sobre Feridas</h1>
+                <p>Painel Administrativo</p>
+            </div>
+            <nav>
+                <div class="menu-toggle">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="../index.html">Início</a></li>
+                    <li><a href="../resumos.html">Resumos</a></li>
+                    <li><a href="../questoes.html">Banco de Questões</a></li>
+                    <li><a href="../galeria.html">Galeria</a></li>
+                    <li><a href="../sobre.html">Sobre</a></li>
+                    <li><a href="../admin.html" class="active admin-only">Admin</a></li>
+                    <li><a href="#" class="logout-btn">Sair</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h2>Gerenciar Resumos</h2>
+                <p>Adicione, edite ou remova resumos do portal</p>
+            </div>
+        </section>
+
+        <section class="admin-content">
+            <div class="container">
+                <div class="admin-actions">
+                    <button class="btn btn-primary" id="btn-add-resumo"><i class="fas fa-plus"></i> Adicionar Novo Resumo</button>
+                    <div class="admin-search">
+                        <input type="text" placeholder="Buscar resumos..." id="search-resumos">
+                        <button class="btn btn-secondary"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+
+                <div class="admin-table-container">
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>Título</th>
+                                <th>Categoria</th>
+                                <th>Data de Criação</th>
+                                <th>Última Atualização</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Fisiologia da Cicatrização</td>
+                                <td>Fisiologia</td>
+                                <td>15/05/2025</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-resumo.html?id=1" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="1"><i class="fas fa-trash"></i></a>
+                                    <a href="../resumos/fisiologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Patologia das Feridas</td>
+                                <td>Patologia</td>
+                                <td>15/05/2025</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-resumo.html?id=2" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="2"><i class="fas fa-trash"></i></a>
+                                    <a href="../resumos/patologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Farmacologia dos Curativos</td>
+                                <td>Farmacologia</td>
+                                <td>15/05/2025</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-resumo.html?id=3" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="3"><i class="fas fa-trash"></i></a>
+                                    <a href="../resumos/farmacologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Avaliação de Feridas</td>
+                                <td>Avaliação</td>
+                                <td>15/05/2025</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-resumo.html?id=4" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="4"><i class="fas fa-trash"></i></a>
+                                    <a href="../resumos/avaliacao.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Prevenção de Feridas</td>
+                                <td>Prevenção</td>
+                                <td>15/05/2025</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-resumo.html?id=5" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="5"><i class="fas fa-trash"></i></a>
+                                    <a href="../resumos/prevencao.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="pagination">
+                    <a href="#" class="page-link active">1</a>
+                    <a href="#" class="page-link">2</a>
+                    <a href="#" class="page-link">3</a>
+                    <a href="#" class="page-link next"><i class="fas fa-chevron-right"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modal para adicionar/editar resumo -->
+        <div class="modal" id="modal-resumo">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Adicionar Novo Resumo</h3>
+                    <button class="modal-close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                    <form id="form-resumo">
+                        <div class="form-group">
+                            <label for="titulo">Título</label>
+                            <input type="text" id="titulo" name="titulo" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="categoria">Categoria</label>
+                            <select id="categoria" name="categoria" required>
+                                <option value="">Selecione uma categoria</option>
+                                <option value="fisiologia">Fisiologia</option>
+                                <option value="patologia">Patologia</option>
+                                <option value="farmacologia">Farmacologia</option>
+                                <option value="avaliacao">Avaliação</option>
+                                <option value="prevencao">Prevenção</option>
+                                <option value="tecnicas">Técnicas</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="conteudo">Conteúdo</label>
+                            <textarea id="conteudo" name="conteudo" rows="10" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="imagens">Imagens</label>
+                            <input type="file" id="imagens" name="imagens" multiple>
+                        </div>
+                        <div class="form-actions">
+                            <button type="button" class="btn btn-secondary modal-cancel">Cancelar</button>
+                            <button type="submit" class="btn btn-primary">Salvar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal de confirmação de exclusão -->
+        <div class="modal" id="modal-confirm-delete">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Confirmar Exclusão</h3>
+                    <button class="modal-close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                    <p>Tem certeza que deseja excluir este resumo? Esta ação não pode ser desfeita.</p>
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary modal-cancel">Cancelar</button>
+                        <button type="button" class="btn btn-danger" id="btn-confirm-delete">Excluir</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Portal de Estudos sobre Feridas</h3>
+                    <p>Conhecimento interativo para profissionais da saúde</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="../index.html">Início</a></li>
+                        <li><a href="../resumos.html">Resumos</a></li>
+                        <li><a href="../questoes.html">Banco de Questões</a></li>
+                        <li><a href="../galeria.html">Galeria</a></li>
+                        <li><a href="../sobre.html">Sobre</a></li>
+                        <li><a href="#" class="logout-btn">Sair</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p><i class="fas fa-envelope"></i> contato@portalferidas.com.br</p>
+                    <p><i class="fas fa-phone"></i> (00) 0000-0000</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Portal de Estudos sobre Feridas. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/auth.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/admin.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Abrir modal de adicionar resumo
+            document.getElementById('btn-add-resumo').addEventListener('click', function() {
+                document.getElementById('modal-resumo').classList.add('active');
+            });
+            
+            // Fechar modais
+            document.querySelectorAll('.modal-close, .modal-cancel').forEach(function(element) {
+                element.addEventListener('click', function() {
+                    document.querySelectorAll('.modal').forEach(function(modal) {
+                        modal.classList.remove('active');
+                    });
+                });
+            });
+            
+            // Abrir modal de confirmação de exclusão
+            document.querySelectorAll('.btn-action.delete').forEach(function(button) {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const resumoId = this.getAttribute('data-id');
+                    document.getElementById('btn-confirm-delete').setAttribute('data-id', resumoId);
+                    document.getElementById('modal-confirm-delete').classList.add('active');
+                });
+            });
+            
+            // Confirmar exclusão
+            document.getElementById('btn-confirm-delete').addEventListener('click', function() {
+                const resumoId = this.getAttribute('data-id');
+                alert(`Resumo ID ${resumoId} excluído com sucesso!`);
+                document.getElementById('modal-confirm-delete').classList.remove('active');
+            });
+            
+            // Enviar formulário
+            document.getElementById('form-resumo').addEventListener('submit', function(e) {
+                e.preventDefault();
+                alert('Resumo salvo com sucesso!');
+                document.getElementById('modal-resumo').classList.remove('active');
+            });
+        });
+    </script>
+</body>
+</html>

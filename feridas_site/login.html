@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Portal de Estudos sobre Feridas</h1>
+                <p>Conhecimento interativo para profissionais da saúde</p>
+            </div>
+            <nav>
+                <div class="menu-toggle">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="register.html">Cadastrar</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="auth-section">
+            <div class="container">
+                <div class="auth-container">
+                    <h2>Acesso ao Portal</h2>
+                    <p>Entre para acessar o conteúdo completo</p>
+                    
+                    <form id="login-form" class="auth-form">
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="Seu email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Senha</label>
+                            <input type="password" id="password" name="password" placeholder="Sua senha" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Entrar</button>
+                        <div class="form-options">
+                            <div class="remember-me">
+                                <input type="checkbox" id="remember" name="remember">
+                                <label for="remember">Lembrar-me</label>
+                            </div>
+                            <a href="#" class="forgot-password">Esqueceu a senha?</a>
+                        </div>
+                    </form>
+                    
+                    <div class="auth-footer">
+                        <p>Ainda não tem uma conta? <a href="register.html">Cadastre-se</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Portal de Estudos sobre Feridas</h3>
+                    <p>Conhecimento interativo para profissionais da saúde</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="register.html">Cadastrar</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p><i class="fas fa-envelope"></i> contato@portalferidas.com.br</p>
+                    <p><i class="fas fa-phone"></i> (00) 0000-0000</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Portal de Estudos sobre Feridas. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/auth.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

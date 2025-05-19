@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/study-tools.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Portal de Estudos sobre Feridas</h1>
+                <p>Conhecimento interativo para profissionais da saúde</p>
+            </div>
+            <nav>
+                <div class="menu-toggle">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="index.html" class="active">Início</a></li>
+                    <li><a href="resumos.html">Resumos</a></li>
+                    <li><a href="questoes.html">Banco de Questões</a></li>
+                    <li><a href="galeria.html">Galeria</a></li>
+                    <li><a href="sobre.html">Sobre</a></li>
+                    <li><a href="admin.html" class="admin-only">Admin</a></li>
+                    <li><a href="#" class="logout-btn">Sair</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h2>Bem-vindo(a), <span class="user-name">Estudante</span>!</h2>
+                    <p>Conteúdo interativo e completo para estudantes e profissionais da área da saúde</p>
+                    <div class="hero-buttons">
+                        <a href="resumos.html" class="btn btn-primary">Estudar Resumos</a>
+                        <a href="questoes.html" class="btn btn-secondary">Testar Conhecimentos</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <img src="images/fases_cicatrizacao.png" alt="Fases da cicatrização de feridas">
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="container">
+                <h2 class="section-title">Recursos do Portal</h2>
+                <div class="features-grid">
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-book-open"></i>
+                        </div>
+                        <h3>Resumos Completos</h3>
+                        <p>Conteúdo organizado por temas e subtemas para facilitar seu estudo</p>
+                        <a href="resumos.html" class="btn btn-sm btn-primary">Acessar Resumos</a>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-question-circle"></i>
+                        </div>
+                        <h3>Banco de Questões</h3>
+                        <p>Mais de 150 questões com feedback imediato e explicações detalhadas</p>
+                        <a href="questoes.html" class="btn btn-sm btn-primary">Testar Conhecimentos</a>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-images"></i>
+                        </div>
+                        <h3>Galeria de Imagens</h3>
+                        <p>Recursos visuais didáticos para melhor compreensão dos conceitos</p>
+                        <a href="galeria.html" class="btn btn-sm btn-primary">Ver Imagens</a>
+                    </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-highlighter"></i>
+                        </div>
+                        <h3>Ferramentas de Estudo</h3>
+                        <p>Marca-texto e sistema de anotações para personalizar seu aprendizado</p>
+                        <a href="#" class="btn btn-sm btn-primary study-tools-btn">Usar Ferramentas</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="topics">
+            <div class="container">
+                <h2 class="section-title">Principais Tópicos</h2>
+                <div class="topics-grid">
+                    <div class="topic-card">
+                        <img src="images/fases_cicatrizacao.png" alt="Fisiologia da Cicatrização">
+                        <h3>Fisiologia da Cicatrização</h3>
+                        <p>Compreenda as fases da cicatrização e os processos celulares envolvidos</p>
+                        <a href="resumos/fisiologia.html" class="btn btn-sm btn-outline">Estudar</a>
+                    </div>
+                    
+                    <div class="topic-card">
+                        <img src="images/tipos_tecidos.png" alt="Patologia das Feridas">
+                        <h3>Patologia das Feridas</h3>
+                        <p>Conheça os diferentes tipos de feridas e suas características</p>
+                        <a href="resumos/patologia.html" class="btn btn-sm btn-outline">Estudar</a>
+                    </div>
+                    
+                    <div class="topic-card">
+                        <img src="images/tipos_curativos.png" alt="Farmacologia dos Curativos">
+                        <h3>Farmacologia dos Curativos</h3>
+                        <p>Aprenda sobre os diferentes tipos de curativos e suas indicações</p>
+                        <a href="resumos/farmacologia.html" class="btn btn-sm btn-outline">Estudar</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Portal de Estudos sobre Feridas</h3>
+                    <p>Conhecimento interativo para profissionais da saúde</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="index.html">Início</a></li>
+                        <li><a href="resumos.html">Resumos</a></li>
+                        <li><a href="questoes.html">Banco de Questões</a></li>
+                        <li><a href="galeria.html">Galeria</a></li>
+                        <li><a href="sobre.html">Sobre</a></li>
+                        <li><a href="#" class="logout-btn">Sair</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p><i class="fas fa-envelope"></i> contato@portalferidas.com.br</p>
+                    <p><i class="fas fa-phone"></i> (00) 0000-0000</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Portal de Estudos sobre Feridas. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Botão de ferramentas de estudo -->
+    <div class="study-tools-toggle">
+        <i class="fas fa-highlighter"></i>
+    </div>
+
+    <!-- Painel de ferramentas de estudo -->
+    <div class="study-tools-panel">
+        <div class="study-tools-header">
+            <h3>Ferramentas de Estudo</h3>
+            <button class="study-tools-close"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="study-tools-options">
+            <div class="study-tool-option" data-tool="highlighter">
+                <i class="fas fa-highlighter"></i>
+                <span>Marca-texto</span>
+            </div>
+            <div class="study-tool-option" data-tool="notes">
+                <i class="fas fa-sticky-note"></i>
+                <span>Anotações</span>
+            </div>
+            <div class="study-tool-option" data-tool="bookmark">
+                <i class="fas fa-bookmark"></i>
+                <span>Favoritos</span>
+            </div>
+            <div class="study-tool-option" data-tool="settings">
+                <i class="fas fa-cog"></i>
+                <span>Configurações</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/auth.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/study-tools.js"></script>
+</body>
+</html>

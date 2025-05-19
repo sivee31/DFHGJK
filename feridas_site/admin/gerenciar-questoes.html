@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciar Questões - Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Portal de Estudos sobre Feridas</h1>
+                <p>Painel Administrativo</p>
+            </div>
+            <nav>
+                <div class="menu-toggle">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="../index.html">Início</a></li>
+                    <li><a href="../resumos.html">Resumos</a></li>
+                    <li><a href="../questoes.html">Banco de Questões</a></li>
+                    <li><a href="../galeria.html">Galeria</a></li>
+                    <li><a href="../sobre.html">Sobre</a></li>
+                    <li><a href="../admin.html" class="active admin-only">Admin</a></li>
+                    <li><a href="#" class="logout-btn">Sair</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h2>Gerenciar Questões</h2>
+                <p>Adicione, edite ou remova questões do banco</p>
+            </div>
+        </section>
+
+        <section class="admin-content">
+            <div class="container">
+                <div class="admin-actions">
+                    <button class="btn btn-primary" id="btn-add-questao"><i class="fas fa-plus"></i> Adicionar Nova Questão</button>
+                    <div class="admin-search">
+                        <input type="text" placeholder="Buscar questões..." id="search-questoes">
+                        <button class="btn btn-secondary"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+
+                <div class="admin-table-container">
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>Enunciado</th>
+                                <th>Categoria</th>
+                                <th>Dificuldade</th>
+                                <th>Data de Criação</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Qual fase da cicatrização ocorre imediatamente após a lesão?</td>
+                                <td>Fisiologia</td>
+                                <td>Fácil</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-questao.html?id=1" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="1"><i class="fas fa-trash"></i></a>
+                                    <a href="../questoes/fisiologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Qual célula chega primeiro à ferida para limpar bactérias?</td>
+                                <td>Fisiologia</td>
+                                <td>Média</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-questao.html?id=2" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="2"><i class="fas fa-trash"></i></a>
+                                    <a href="../questoes/fisiologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Qual das seguintes características é típica de uma úlcera venosa?</td>
+                                <td>Patologia</td>
+                                <td>Média</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-questao.html?id=3" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="3"><i class="fas fa-trash"></i></a>
+                                    <a href="../questoes/patologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Qual curativo é indicado para feridas com grande quantidade de exsudato?</td>
+                                <td>Farmacologia</td>
+                                <td>Média</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-questao.html?id=4" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="4"><i class="fas fa-trash"></i></a>
+                                    <a href="../questoes/farmacologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Qual é a principal célula responsável pela síntese de colágeno durante a fase proliferativa?</td>
+                                <td>Fisiologia</td>
+                                <td>Difícil</td>
+                                <td>18/05/2025</td>
+                                <td class="actions">
+                                    <a href="editar-questao.html?id=5" class="btn-action edit" title="Editar"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="btn-action delete" title="Excluir" data-id="5"><i class="fas fa-trash"></i></a>
+                                    <a href="../questoes/fisiologia.html" class="btn-action view" title="Visualizar" target="_blank"><i class="fas fa-eye"></i></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="pagination">
+                    <a href="#" class="page-link active">1</a>
+                    <a href="#" class="page-link">2</a>
+                    <a href="#" class="page-link">3</a>
+                    <a href="#" class="page-link next"><i class="fas fa-chevron-right"></i></a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Modal para adicionar/editar questão -->
+        <div class="modal" id="modal-questao">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Adicionar Nova Questão</h3>
+                    <button class="modal-close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                    <form id="form-questao">
+                        <div class="form-group">
+                            <label for="enunciado">Enunciado</label>
+                            <textarea id="enunciado" name="enunciado" rows="3" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label for="categoria">Categoria</label>
+                            <select id="categoria" name="categoria" required>
+                                <option value="">Selecione uma categoria</option>
+                                <option value="fisiologia">Fisiologia</option>
+                                <option value="patologia">Patologia</option>
+                                <option value="farmacologia">Farmacologia</option>
+                                <option value="avaliacao">Avaliação</option>
+                                <option value="prevencao">Prevenção</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="dificuldade">Dificuldade</label>
+                            <select id="dificuldade" name="dificuldade" required>
+                                <option value="">Selecione a dificuldade</option>
+                                <option value="facil">Fácil</option>
+                                <option value="media">Média</option>
+                                <option value="dificil">Difícil</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>Alternativas</label>
+                            <div class="alternativas-container">
+                                <div class="alternativa-item">
+                                    <input type="radio" name="alternativa-correta" id="alternativa-a" value="a" required>
+                                    <label for="alternativa-a">A</label>
+                                    <textarea name="alternativa-a-texto" rows="2" required placeholder="Texto da alternativa A"></textarea>
+                                </div>
+                                <div class="alternativa-item">
+                                    <input type="radio" name="alternativa-correta" id="alternativa-b" value="b">
+                                    <label for="alternativa-b">B</label>
+                                    <textarea name="alternativa-b-texto" rows="2" required placeholder="Texto da alternativa B"></textarea>
+                                </div>
+                                <div class="alternativa-item">
+                                    <input type="radio" name="alternativa-correta" id="alternativa-c" value="c">
+                                    <label for="alternativa-c">C</label>
+                                    <textarea name="alternativa-c-texto" rows="2" required placeholder="Texto da alternativa C"></textarea>
+                                </div>
+                                <div class="alternativa-item">
+                                    <input type="radio" name="alternativa-correta" id="alternativa-d" value="d">
+                                    <label for="alternativa-d">D</label>
+                                    <textarea name="alternativa-d-texto" rows="2" required placeholder="Texto da alternativa D"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="explicacao">Explicação da Resposta</label>
+                            <textarea id="explicacao" name="explicacao" rows="4" required placeholder="Explique por que a alternativa correta é a resposta e forneça informações adicionais relevantes"></textarea>
+                        </div>
+                        <div class="form-actions">
+                            <button type="button" class="btn btn-secondary modal-cancel">Cancelar</button>
+                            <button type="submit" class="btn btn-primary">Salvar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal de confirmação de exclusão -->
+        <div class="modal" id="modal-confirm-delete">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Confirmar Exclusão</h3>
+                    <button class="modal-close"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="modal-body">
+                    <p>Tem certeza que deseja excluir esta questão? Esta ação não pode ser desfeita.</p>
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary modal-cancel">Cancelar</button>
+                        <button type="button" class="btn btn-danger" id="btn-confirm-delete">Excluir</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <h3>Portal de Estudos sobre Feridas</h3>
+                    <p>Conhecimento interativo para profissionais da saúde</p>
+                </div>
+                <div class="footer-links">
+                    <h4>Links Rápidos</h4>
+                    <ul>
+                        <li><a href="../index.html">Início</a></li>
+                        <li><a href="../resumos.html">Resumos</a></li>
+                        <li><a href="../questoes.html">Banco de Questões</a></li>
+                        <li><a href="../galeria.html">Galeria</a></li>
+                        <li><a href="../sobre.html">Sobre</a></li>
+                        <li><a href="#" class="logout-btn">Sair</a></li>
+                    </ul>
+                </div>
+                <div class="footer-contact">
+                    <h4>Contato</h4>
+                    <p><i class="fas fa-envelope"></i> contato@portalferidas.com.br</p>
+                    <p><i class="fas fa-phone"></i> (00) 0000-0000</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Portal de Estudos sobre Feridas. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/auth.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="../js/admin.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Abrir modal de adicionar questão
+            document.getElementById('btn-add-questao').addEventListener('click', function() {
+                document.getElementById('modal-questao').classList.add('active');
+            });
+            
+            // Fechar modais
+            document.querySelectorAll('.modal-close, .modal-cancel').forEach(function(element) {
+                element.addEventListener('click', function() {
+                    document.querySelectorAll('.modal').forEach(function(modal) {
+                        modal.classList.remove('active');
+                    });
+                });
+            });
+            
+            // Abrir modal de confirmação de exclusão
+            document.querySelectorAll('.btn-action.delete').forEach(function(button) {
+                button.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const questaoId = this.getAttribute('data-id');
+                    document.getElementById('btn-confirm-delete').setAttribute('data-id', questaoId);
+                    document.getElementById('modal-confirm-delete').classList.add('active');
+                });
+            });
+            
+            // Confirmar exclusão
+            document.getElementById('btn-confirm-delete').addEventListener('click', function() {
+                const questaoId = this.getAttribute('data-id');
+                alert(`Questão ID ${questaoId} excluída com sucesso!`);
+                document.getElementById('modal-confirm-delete').classList.remove('active');
+            });
+            
+            // Enviar formulário
+            document.getElementById('form-questao').addEventListener('submit', function(e) {
+                e.preventDefault();
+                alert('Questão salva com sucesso!');
+                document.getElementById('modal-questao').classList.remove('active');
+            });
+        });
+    </script>
+</body>
+</html>

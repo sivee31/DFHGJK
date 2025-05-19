@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel Administrativo - Portal de Estudos sobre Feridas</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="admin-header">
+        <div class="container">
+            <div class="admin-logo">
+                <h1>Painel Administrativo</h1>
+            </div>
+            <div class="admin-user">
+                <span id="admin-username">admin</span>
+                <button id="logout-btn"><i class="fas fa-sign-out-alt"></i> Sair</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="admin-container">
+        <aside class="admin-sidebar">
+            <nav class="admin-nav">
+                <ul>
+                    <li class="active"><a href="dashboard.html"><i class="fas fa-tachometer-alt"></i> Dashboard</a></li>
+                    <li><a href="resumos.html"><i class="fas fa-book"></i> Gerenciar Resumos</a></li>
+                    <li><a href="questoes.html"><i class="fas fa-question-circle"></i> Gerenciar Questões</a></li>
+                    <li><a href="galeria.html"><i class="fas fa-images"></i> Gerenciar Galeria</a></li>
+                    <li><a href="usuarios.html"><i class="fas fa-users"></i> Gerenciar Usuários</a></li>
+                    <li><a href="configuracoes.html"><i class="fas fa-cog"></i> Configurações</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="admin-content">
+            <div class="admin-header">
+                <h2>Dashboard</h2>
+                <p>Bem-vindo ao painel administrativo do Portal de Estudos sobre Feridas</p>
+            </div>
+
+            <div class="admin-stats">
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-book"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3>Resumos</h3>
+                        <p class="stat-number">25</p>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-question-circle"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3>Questões</h3>
+                        <p class="stat-number">150</p>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-images"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3>Imagens</h3>
+                        <p class="stat-number">45</p>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="stat-info">
+                        <h3>Usuários</h3>
+                        <p class="stat-number">1</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="admin-recent">
+                <div class="admin-section">
+                    <h3>Ações Rápidas</h3>
+                    <div class="quick-actions">
+                        <a href="resumos-adicionar.html" class="action-btn">
+                            <i class="fas fa-plus"></i> Adicionar Resumo
+                        </a>
+                        <a href="questoes-adicionar.html" class="action-btn">
+                            <i class="fas fa-plus"></i> Adicionar Questão
+                        </a>
+                        <a href="galeria-adicionar.html" class="action-btn">
+                            <i class="fas fa-plus"></i> Adicionar Imagem
+                        </a>
+                        <a href="../index.html" class="action-btn" target="_blank">
+                            <i class="fas fa-external-link-alt"></i> Visualizar Site
+                        </a>
+                    </div>
+                </div>
+
+                <div class="admin-section">
+                    <h3>Resumos Recentes</h3>
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>Título</th>
+                                <th>Categoria</th>
+                                <th>Data de Atualização</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Hidrogel</td>
+                                <td>Farmacologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="resumos-editar.html?id=1" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Fases da Cicatrização</td>
+                                <td>Fisiologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="resumos-editar.html?id=2" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Úlceras por Pressão</td>
+                                <td>Patologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="resumos-editar.html?id=3" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="admin-section">
+                    <h3>Questões Recentes</h3>
+                    <table class="admin-table">
+                        <thead>
+                            <tr>
+                                <th>Pergunta</th>
+                                <th>Categoria</th>
+                                <th>Data de Atualização</th>
+                                <th>Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Qual é o principal mecanismo de ação do hidrogel?</td>
+                                <td>Farmacologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="questoes-editar.html?id=1" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Qual fase da cicatrização ocorre imediatamente após a lesão?</td>
+                                <td>Fisiologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="questoes-editar.html?id=2" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Em úlcera por pressão grau IV, observa-se:</td>
+                                <td>Patologia</td>
+                                <td>19/05/2025</td>
+                                <td>
+                                    <a href="questoes-editar.html?id=3" class="table-action edit"><i class="fas fa-edit"></i></a>
+                                    <a href="#" class="table-action delete"><i class="fas fa-trash"></i></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Verificar autenticação
+        document.addEventListener('DOMContentLoaded', function() {
+            const isLoggedIn = localStorage.getItem('isLoggedIn');
+            const username = localStorage.getItem('username');
+            
+            if (!isLoggedIn || isLoggedIn !== 'true') {
+                // Redirecionar para página de login se não estiver autenticado
+                window.location.href = '../login.html';
+                return;
+            }
+            
+            // Exibir nome de usuário
+            if (username) {
+                document.getElementById('admin-username').textContent = username;
+            }
+            
+            // Configurar botão de logout
+            document.getElementById('logout-btn').addEventListener('click', function() {
+                localStorage.removeItem('isLoggedIn');
+                localStorage.removeItem('username');
+                window.location.href = '../login.html';
+            });
+        });
+    </script>
+</body>
+</html>
